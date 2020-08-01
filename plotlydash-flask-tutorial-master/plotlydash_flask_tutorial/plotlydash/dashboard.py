@@ -32,14 +32,13 @@ def create_dashboard(server):
             id='histogram-graph',
             figure={
                 'data': [{
-                    'x': df['complaint_type'],
-                    'text': df['complaint_type'],
-                    'customdata': df['key'],
-                    'name': '311 Calls by region.',
+                    'x': df['Key Words'],
+                    'text': df['Key Words'],
+                    'name': 'Research Categories',
                     'type': 'histogram'
                 }],
                 'layout': {
-                    'title': 'NYC 311 Calls category.',
+                    'title': 'Research Categories',
                     'height': 500,
                     'padding': 150
                 }
@@ -59,6 +58,7 @@ def create_data_table(df):
         data=df.to_dict('records'),
         sort_action="native",
         sort_mode='native',
+        style_table={'overflowX': 'scroll', 'overflowY': 'scroll'},
         page_size=300
     )
     return table
