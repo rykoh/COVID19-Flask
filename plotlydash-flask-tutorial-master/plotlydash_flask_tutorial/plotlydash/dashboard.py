@@ -59,6 +59,7 @@ def create_data_table(df):
         sort_action="native",
         sort_mode='native',
         style_table={'overflowX': 'scroll', 'overflowY': 'scroll'},
+        style_cell={"whiteSpace": "normal", "height": "auto"},
         page_size=300
     )
     return table
