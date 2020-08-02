@@ -10,4 +10,29 @@
     <i class="fas fa-arrow-right"></i>
   </a>
 </div>
+
+<div class="card">
+  <h2 class="title">Feedback Form</h2>
+  <form method="POST" action="/">
+    <div class="form-field">{{ form.body.label }} {{ form.body }}
+      {% if form.body.errors %}
+        <ul class="errors">
+        	{% for error in form.body.errors %}
+        		<li>{{ error }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    </div>
+    {{ form.submit }}
+  </form>
+  {% with messages = get_flashed_messages() %}
+    {% if messages %}
+      {% for message in messages %}
+        <div>
+          <P>{{ message }}</p>
+        </div>
+      {% endfor %}
+    {% endif %}
+  {% endwith %} 
+</div>
 {% endblock %}
