@@ -8,3 +8,5 @@ class FeedbackForm(FlaskForm):
         DataRequired(),
         Length(min=1, message=('Your message is too short.'))])
     submit = SubmitField('Submit')
+
+    
