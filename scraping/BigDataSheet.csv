@@ -1,0 +1,939 @@
+Data Source,Project Title/ Coordinator,Type of Research,Description,Relevant Links/POC,Key Words
+Stanford,Californians Fighting Against COVID-19 Together (CA-Facts),N/A,"Parsonnet, Andrews, Boyd and Nelson are testing a random sample of 12,000 people in Solano and Santa Clara counties for COVID-19 antibodies. Subjects are mailed at-home test kits integrating a simple finger-stick blood test with smartphone-based applications that anonymously collect economic, clinical and demographic information and provide information back to the subject."," https://med.stanford.edu/profiles/jason-andrews 
+https://profiles.stanford.edu/julie-parsonnet 
+https://profiles.stanford.edu/scott-boyd 
+https://profiles.stanford.edu/lorene-nelson 
+https://med.stanford.edu/profiles/julie-parsonnet 
+https://profiles.stanford.edu/jason-andrews 
+https://med.stanford.edu/profiles/lorene-nelson ",Technology and Computer Science
+Stanford,Track COVID study,N/A,"Researchers at Stanford, UC-San Francisco and the Chan Zuckerberg Biohub have begun a study to track changes in San Francisco Bay Area SARS-CoV-2 infection rates over a nine-month period. The participants will receive monthly diagnostic tests to identify current infection and serological tests to determine previous infection. Researchers are also sequencing the viral genomes from all participants who test positive to help understand how the virus has spread and whether co-infections with other viruses play a role in the illness. The study is being led by Maldonado at Stanford and George Rutherford, MD, at UC-San Francisco."," https://med.stanford.edu/profiles/yvonne-maldonado 
+https://profiles.stanford.edu/yvonne-maldonado ",Biomedical
+Stanford,Building COVID-19 testing capacity both locally and nationally,N/A,"Pinsky’s team is focused on building COVID-19 testing capacity, both locally and nationally. They are collaborating with other clinical laboratories to ensure these labs can meet the requirements of the Food and Drug Administration for COVID-19 clinical testing. The group is also working with various collaborators to develop and evaluate novel methods for the diagnosis of COVID-19, as well as methods to assess immune protection and to predict the severity of disease."," https://med.stanford.edu/profiles/benjamin-pinsky 
+https://profiles.stanford.edu/benjamin-pinsky ",Biomedical
+Stanford,Validation of specimen self-collection vs. collection by health care worker for COVID-19 testing,N/A,"Maldonado, Altamirano, Govindarajan and Blomkalns are investigating three swab techniques used during COVID-19 testing: a self-collected nasal swab performed with the aid of an instruction sheet; a health care worker-collected nasal swab; and a health care worker-collected oropharyngeal swab. Should self-collected nasal swabs prove as effective as those collected by health care workers, patients may be able to safely and effectively collect specimens outside of health care settings."," https://med.stanford.edu/profiles/andra-blomkalns 
+https://med.stanford.edu/profiles/prasanthi-govindarajan 
+https://med.stanford.edu/profiles/yvonne-maldonado 
+https://profiles.stanford.edu/yvonne-maldonado ",Technology and Computer Science
+Stanford,Lung function in people infected with SARS-CoV-2,N/A,"Milla and his team are evaluating whether improvements they’ve made in a lung function test can more successfully and safely identify subjects at high risk of severe COVID-19 disease, even when disease is in its early, asymptomatic stage. Standard tests involve inhaling deeply and quickly exhaling as much air as possible. The Milla lab’s improvements allow subjects to simply breathe passively for a few seconds through a mouthpiece. This not only makes the test feasible for sick subjects but also minimizes the generation of aerosols. ", https://profiles.stanford.edu/carlos-milla?tab=research-and-scholarship ,Technology and Computer Science
+Stanford,Machine-learning-based evaluation for COVID-19,N/A,"Banaei’s group is using machine learning to develop a web tool that uses non-SARS-CoV-2 test results (such as blood cell counts and other available tests) to rule out COVID-19 infection with high accuracy. The goal is to provide health care workers another, possibly faster, option for screening individuals for COVID-19."," https://med.stanford.edu/profiles/niaz-banaei 
+https://profiles.stanford.edu/niaz-banaei ",Biomedical
+Stanford,Development of rapid at-home testing for COVID-19,N/A,"Greenleaf is leading an effort to develop new methods of COVID-19 detection at the point of care to help get around current supply chain problems and allow for rapid screening. The kit in development is meant to function directly in sample swabs and, in principle, could be done at home or in decentralized clinics if users were taught proper swabbing techniques.", https://profiles.stanford.edu/william-greenleaf ,Other
+Stanford,Tracking COVID-19 with wearables,N/A,Snyder and his team will track biological parameters of individuals who are ill with COVID-19 or at risk for the disease using a smart watch. Their goal is to determine whether they can tell if the smart watch user is becoming ill based on measurements such as heart rate.," https://med.stanford.edu/profiles/michael-snyder 
+https://med.stanford.edu/profiles/megan-mahoney 
+https://med.stanford.edu/profiles/60982 ",Technology and Computer Science
+Stanford,Development and validation of molecular viability assays for SARS-CoV-2,N/A,"A key factor in the transmissibility of COVID-19 is a high level of virus shedding in the upper respiratory tract. Viral RNA can be detected for several weeks after the patient has recovered from disease and it is widely assumed that this genetic material is no longer infectious. The standard test for infection with SARS-CoV-2, RT-PCR, cannot discriminate between infectious and non-infectious SARS-CoV-2 RNA. Andrews, Maldonado and team are developing and validating an assay to distinguish between infectious virus from non-infectious shedding."," https://med.stanford.edu/profiles/jason-andrews 
+https://med.stanford.edu/profiles/yvonne-maldonado 
+https://profiles.stanford.edu/yvonne-maldonado 
+https://profiles.stanford.edu/jason-andrews ",Technology and Computer Science
+Stanford,Natural history of shedding and household transmission of COVID-19: Constructing patterns of viral spread and evolution,N/A,"Maldonado’s team will combine genomic and epidemiologic data to address questions about the transmission and evolutionary dynamics of COVID-19. Her team plans to use whole-genome sequencing to understand how COVID-19 mutates during the early stages of infection, as well as generate a bio-repository of specimens and associated clinical and epidemiologic data for use in understanding the transmission of COVID-19. "," https://med.stanford.edu/profiles/yvonne-maldonado 
+https://profiles.stanford.edu/yvonne-maldonado ",Biomedical
+Stanford,Repurposing snorkel masks for personal protective equipment,N/A,"Prakash and his lab are repurposing full-face snorkel masks as reusable personal protective equipment for healthcare workers to help combat the shortage of personal protective equipment in hospitals. To ensure protection against airborne pathogens, the group is 3D-printing N95 filter attachments that are fitted to the snorkel masks. The prototypes are currently being tested in the three clinics currently."," https://abslab.sites.stanford.edu/ 
+https://med.stanford.edu/profiles/manu-prakash ",Technology and Computer Science
+Stanford,Novel aerosol capture tools for understanding COVID-19 infectiousness,N/A,"Andrews’ group is developing and validating tools to capture airborne biological particles and characterize infectiousness, with the goals of understanding predictors and determinants of infectiousness and potentially monitoring environments for presence of SARS-CoV-2."," https://med.stanford.edu/profiles/jason-andrews 
+https://profiles.stanford.edu/jason-andrews ",Technology and Computer Science
+Stanford,Oral favipiravir compared to placebo in subjects with mild COVID-19,N/A,"Stanford epidemiologists are conducting a clinical trial to see if the antiviral drug favipiravir prevents SARS-CoV-2 from replicating in human cells, halts the shedding of the virus and reduces the severity of infection in people with mild or asymptomatic COVID-19. They plan to enroll 120 people who have been recently diagnosed with COVID-19 and are not in the hospital. Participants will receive either favipiravir, which is used to treat influenza in Japan, or a placebo."," https://med.stanford.edu/profiles/aruna-subramanian 
+https://stanfordhealthcare.org/doctors/s/aruna-subramanian.html 
+https://med.stanford.edu/profiles/yvonne-maldonado 
+https://profiles.stanford.edu/yvonne-maldonado 
+https://profiles.stanford.edu/marisa-holubar ",Technology and Computer Science
+Stanford,Evaluating the potency and durability of slow-delivery SARS-CoV-2 vaccines via a hydrogel,N/A,"The Appel lab is exploring vaccination strategies that make use of a hydrogel that allows sustained, controlled release of small molecules over a period of weeks. In studies in mice, they are testing the ability of this gel, developed in the Appel lab, to slowly release experimental vaccines against SARS-CoV-2 as well as cGAMP molecules, which research has shown can boost a vaccine’s potency. The study will also assess the potency of the vaccines when delivered in this way."," https://med.stanford.edu/profiles/eric-appel 
+https://med.stanford.edu/profiles/lingyin-li ",Technology and Computer Science
+Stanford,Clinical trial of tocilizumab in hospitalized adults with severe COVID-19 pneumonia,N/A,"Rohatgi, Nadeau and Ahuja are conducting a randomized, double-blind, placebo-controlled phase 3 trial to evaluate the safety and efficacy of tocilizumab, an interleukin-6 receptor antibody, in hospitalized adult patients diagnosed with severe COVID-19 pneumonia. This multicenter trial is being conducted at 65 sites globally."," https://profiles.stanford.edu/neera-ahuja 
+https://profiles.stanford.edu/nidhi-rohatgi 
+https://med.stanford.edu/profiles/kari-nadeau 
+https://profiles.stanford.edu/kari-nadeau 
+https://med.stanford.edu/profiles/neera-ahuja ",Other
+Stanford,Clinical trial of remdesivir in hospitalized adults with COVID-19,N/A,"Nadeau and Ahuja are conducting a randomized, double-blind, placebo-controlled phase 2 trial to evaluate the safety and efficacy of the Ebola drug remdesivir in hospitalized adult patients diagnosed with COVID-19. The study is sponsored by the National Institutes of Health and is a multicenter trial that will be conducted at as many as 50 sites globally."," https://profiles.stanford.edu/neera-ahuja 
+https://med.stanford.edu/profiles/kari-nadeau 
+https://profiles.stanford.edu/kari-nadeau 
+https://med.stanford.edu/profiles/neera-ahuja ",Technology and Computer Science
+Stanford,Phase 3 clinical trials of remdesivir in patients hospitalized with moderate and severe COVID-19,N/A,"Subramanian and Grant have been conducting two multicenter, randomized, phase 3 clinical trials of an anti-viral medication, remdesivir. They are following patients to see how quickly they improve to the point of no longer needing oxygen or hospitalization. These trials, supported by Gilead Sciences, are being conducted at 100 centers worldwide. Stanford Medicine has been enrolling patients since March 14."," https://med.stanford.edu/profiles/aruna-subramanian 
+https://stanfordhealthcare.org/doctors/s/aruna-subramanian.html 
+https://med.stanford.edu/profiles/philip-grant ",Other
+Stanford,Rapid-response ventilators,N/A,"Camarillo and Van Wert have undertaken a project to design and build simplified, rapidly scalable, single-use ventilators to help address the broad shortage of ventilators nationwide. The team aims to create machines that hospitals can use to save lives when standard ventilators are unavailable. The Chan Zuckerberg Biohub is supporting this work. "," https://profiles.stanford.edu/ryan-van-wert 
+https://profiles.stanford.edu/david-camarillo ",Other
+Stanford,Clinical trial of novel therapeutic for mild COVID-19 infection to prevent severe disease and reduce viral shedding,N/A,"Singh’s team is conducting a trial of a novel therapeutic called Lambda, a broad-spectrum anti-viral compound that’s been given to more than 3,000 patients in clinical trials of hepatitis viruses, for efficacy in outpatients with mild COVID-19. In vitro and animal-model data suggest Lambda may also inhibit replication of respiratory viruses, such as the COVID-19 virus. The team plans to perform a phase 2 randomized controlled trial of Lambda among outpatients with mild COVID-19 to determine whether the drug reduces the duration of symptoms, viral shedding and the risk of hospitalization."," https://med.stanford.edu/profiles/jason-andrews 
+https://profiles.stanford.edu/julie-parsonnet 
+https://med.stanford.edu/profiles/prasanna-jagannathan 
+https://med.stanford.edu/profiles/upinder-singh 
+https://med.stanford.edu/profiles/julie-parsonnet 
+https://profiles.stanford.edu/jason-andrews 
+https://abslab.sites.stanford.edu/ 
+https://surf.stanford.edu/covid-19-tools/covid-19/ ",Technology and Computer Science
+Stanford,Defining the therapeutic potential of host-targeted approaches for combating COVID-19,N/A,"Einav’s lab is researching repurposed and novel anti-viral approaches targeting two cellular kinases that are an Achilles' heel of multiple unrelated RNA viruses. Their data show that a combination of two already-approved anti-cancer drugs that act against these kinases inhibits replication of multiple viruses in vitro and reduces mortality in mice infected with the dengue or Ebola viruses. The lab has also been developing more selective compounds that target these cellular kinases and have potent activity against multiple RNA viruses, including flaviviruses and coronaviruses, both in vitro and in human primary cells.", https://med.stanford.edu/profiles/shirit-einav ,Other
+Stanford,Specimen collection during COVID-19 clinical trials and lab biosafety enhancements,N/A,"Subramanian and Grant are co-principal investigators of a Gilead-sponsored clinical trial that evaluates the safety and efficacy of using the Ebola drug remdesivir to treat patients with COVID-19. In parallel with these trials, Blish wants to collect specimens, such as blood and stool samples, and later expand collection to individuals outside of the trials. These bio-specimens will be crucial in understanding the biological underpinnings of this virus."," https://med.stanford.edu/profiles/aruna-subramanian 
+https://stanfordhealthcare.org/doctors/s/aruna-subramanian.html 
+https://med.stanford.edu/profiles/philip-grant 
+https://med.stanford.edu/profiles/catherine-blish 
+https://abslab.sites.stanford.edu/ 
+https://med.stanford.edu/profiles/angela-rogers 
+https://surf.stanford.edu/covid-19-tools/covid-19/ ",Biomedical
+Stanford,Develop proofs-of-concept for two novel COVID-19 drugs to begin clinical trials,N/A,"Glenn is preparing two potential COVID-19 drugs for clinical trials: a lipid kinase inhibitor that could be used to combat COVID-19 and other viruses, and a locked nucleic acid, similar to one that he has successfully developed to target every known strain of the flu and that could potentially be used during any flu pandemic. Both of these drugs could treat multiple viruses and strains, have high barriers to resistance, and, in some cases, could be used in nonviral applications."," https://med.stanford.edu/profiles/rhiju-das 
+https://med.stanford.edu/profiles/jeffrey-glenn ",Technology and Computer Science
+Stanford,Coronavirus antiviral research database,N/A,"Shafer’s team has created an online database of compounds with proven or potential anti-COVID-19 activity. The compounds include targeted anti-virals, repurposed drugs, investigational agents and other compounds that inhibit virus replication. The data come from published biochemical, cellular, small animal, nonhuman primate and human clinical studies. The goal of the database is to provide a uniform way to report experimental results, enabling comparisons between different compounds and allowing prioritization for further development.", https://profiles.stanford.edu/robert-shafer ,Other
+Stanford,Using artificial intelligence to predict drugs that may inhibit COVID-19,N/A,"Altman and his group have used artificial intelligence to computationally predict six drugs that could inhibit TMPRSS2, a protein that plays a key role in SARS-CoV-2 infections. Altman and his collaborators outside of Stanford Medicine plan to conduct experimental follow-up studies to explore the efficacy of two of the drugs in blocking SARS-CoV-2 from causing infection. While promising, the potential drugs are still part of a preliminary computational analysis and would be dangerous to use clinically at this time."," https://med.stanford.edu/profiles/russ-altman 
+https://abslab.sites.stanford.edu/ 
+https://surf.stanford.edu/covid-19-tools/covid-19/ ",Technology and Computer Science
+Stanford,Crowdsourcing solutions to better understand molecular structures of COVID-19,N/A,"The Chang and Das labs are engaging participants of the online-gaming platform Eterna to understand how the RNA genome of SARS-CoV-2 virus might change during the pandemic. Eterna educates and enables its players to “be the virus,” simulating how it shifts its sequence over time to evade diagnostics, therapeutics and vaccines being developed to fight COVID-19. The project seeks to provide RNA-structure-informed predictions and analyses that are not available through other computational efforts, while engaging and educating millions of citizens worldwide through compelling puzzles."," https://profiles.stanford.edu/howard-chang 
+https://med.stanford.edu/profiles/rhiju-das 
+https://med.stanford.edu/profiles/howard-chang ",Other
+Stanford,Assessing COVID-19-related needs among low-income and racial and ethnic minority populations,N/A,"Goldman Rosas and team are assessing COVID-19-related needs among Bay Area low-income and racial and ethnic minority populations, using surveys and interviews to rapidly disseminate results to community partner organizations. The quantitative and qualitative data they collect will enable them to work with community partners to plan interventions that address disparities.", https://profiles.stanford.edu/lisa-goldman-rosas ,Technology and Computer Science
+Stanford,Stanford Medicine National Daily Health Survey for Coronavirus ,N/A,"Hofmann is leading an effort to track COVID-19 symptoms nationally using self-reported data from a daily, digital survey. The goal is to create a novel coronavirus heat map that can be used to target and inform national efforts and public health interventions. The creation of this data set is dependent on participation across Stanford Medicine and our broader communities.", https://profiles.stanford.edu/lawrence-hofmann ,Other
+Stanford,Genomic surveillance to identify silent transmission clusters of COVID-19,N/A,Andrews’ team is developing and testing novel tools that utilize microbial whole-genome sequences to identify chains of transmission between individuals. Andrews proposes to work with local hospitals and the state and county health departments to perform whole-genome sequencing on all COVID-19-positive samples and apply these methods in real-time to characterize transmission chains and help guide public health investigations.," https://med.stanford.edu/profiles/jason-andrews 
+https://profiles.stanford.edu/jason-andrews ",Technology and Computer Science
+Stanford,Stanford Coronavirus Study to understand behavioral and societal impacts,N/A,"Linos and her team are developing a website with reliable public health information about COVID-19 and surveys about the social and behavioral impact of the evolving pandemic. They also plan to share survey results to directly inform public health practitioners, health care systems, clinicians and policymakers about the informational, social and health needs of community members in their regions."," https://med.stanford.edu/profiles/eleni-linos 
+https://med.stanford.edu/profiles/melissa-bondy ",Biomedical
+Stanford,Determining pathogenicity of various variants and strains of COVID-19,N/A,"Snyder and his group plan to track different variants and strains of COVID-19 and quantitatively determine which ones correlate with different phenotypes, such as levels of pathogenicity. His team also plans to study the false negative rate of COVID-19, seeking to better understand how many people receive a false negative test result during early stages of the disease."," https://med.stanford.edu/profiles/benjamin-pinsky 
+https://med.stanford.edu/profiles/michael-snyder ",Technology and Computer Science
+Stanford,COVID-19 and Stanford WELL for Life study to understand the effects of shelter-in-place on well-being,N/A,"Hsing and the Stanford WELL for Life team are investigating the effect of COVID-19 and the shelter-in-place order on well-being. They are surveying existing Stanford WELL for Life participants (about 5,000) with the WELL questionnaire, which measures distress and multiple dimensions of well-being longitudinally at six time points over the next 12 months. This approach will enable the evaluation of the short- and long-term effects of COVID-19 quarantine and social distancing on emotions, social connectedness and physical health.", https://profiles.stanford.edu/ann-hsing ,Technology and Computer Science
+Stanford,Investigation of possible oral-fecal transmission of SARS-CoV-2 in the Bay Area,N/A,"The Bhatt group and collaborators are investigating whether SARS-CoV-2 was circulating through oral-fecal cycles in the Bay Area community. The lab plans to screen stool samples collected through a biobank at Stanford for signs of SARS-CoV-2 from December 2019 through December 2020. Depending on sample availability, the team also plans to research whether a patient’s gut microbiome composition affects gastrointestinal symptoms of COVID-19, as well as other details about how the virus sheds."," https://med.stanford.edu/profiles/benjamin-pinsky 
+https://profiles.stanford.edu/niaz-banaei 
+https://med.stanford.edu/profiles/niaz-banaei 
+https://med.stanford.edu/profiles/arezvani 
+https://med.stanford.edu/profiles/ami-bhatt 
+https://med.stanford.edu/profiles/angela-rogers ",Technology and Computer Science
+Stanford,Building a Bay Area SARS-CoV-2 information commons,N/A,"Shah and Maldonado are hoping to better anticipate the evolution of the COVID-19 pandemic. Existing predictions of the pandemic are uncertain due to many factors, such as a lack of plentiful and optimal data and the fact that models vary depending on the location. The scientists are creating a platform that combines diverse inputs to quantify the effects of the shelter-in-place order. The goal is to create more accurate, higher-resolution models about COVID-19 pandemic parameters."," https://med.stanford.edu/profiles/nigam-shah 
+https://med.stanford.edu/profiles/yvonne-maldonado 
+https://profiles.stanford.edu/yvonne-maldonado 
+https://profiles.stanford.edu/nigam-shah ",Other
+Stanford,Continuous symptom profiling of patients screened for SARS-CoV-2,N/A,"Shah’s team is analyzing medical notes describing symptoms of patients screened and tested for SARS-CoV-2 at Stanford Medicine. They want to determine if combinations of symptoms are predictive of SARS-CoV-2 test results to assist screening in low-resource settings. They also hope to use information from the medical notes — such as symptoms, duration of disease, travel history and more — to anticipate which patients will require admission or eventual ICU care."," https://med.stanford.edu/profiles/nigam-shah 
+https://profiles.stanford.edu/nigam-shah ",Other
+Stanford,Enhancing the public health data ecosystem for COVID-19 prevention,N/A,"Nelson and her team are building an integrated geospatial data ecosystem for examining geographic clustering and unequal burden of COVID-19 by income, race/ethnicity, household crowding and other social determinants of health. They will begin with Santa Clara and Solano counties, but the system is scalable to all 58 California counties. This work will enable public health agencies to identify risk factors for SARS-CoV-2 infection and predict and prevent future outbreaks. "," https://profiles.stanford.edu/lorene-nelson 
+https://med.stanford.edu/profiles/lorene-nelson ",Technology and Computer Science
+Stanford,Bed- and resource-use projections for Stanford Health Care,N/A,Staudenmayer and Schulman have developed an operational Stanford Health Care model to match projected COVID-19 admissions against hospital resources. Their model can be found here.," https://med.stanford.edu/profiles/david-scheinker 
+https://profiles.stanford.edu/david-scheinker 
+https://profiles.stanford.edu/kevin-schulman ",Other
+Stanford,The Stanford-CIDE novel coronavirus simulation model,N/A,"A group of faculty members at Stanford Health Policy, including Joshua Salomon and David Studdert, as well as graduate and medical students, are working with Fernando Alarid-Escudero and his group at the Center for Research and Teaching in Economics, in Mexico, to provide high-quality modeling of the epidemiology of COVID-19. Their work encompasses diverse populations and geographies, including California, Mexico and India. The model incorporates realistic demography and patterns of contacts and disease transmissions, as well as nonpharmaceutical interventions, such as social distancing."," https://med.stanford.edu/profiles/jason-andrews 
+https://healthpolicy.fsi.stanford.edu/people/jeremy_goldhaberfiebert 
+https://profiles.stanford.edu/jason-andrews ",Other
+Stanford,Utilizing radiological imaging of COVID-19 patients for allocation of hospital resources,N/A,"Lungren and his collaborators are using machine learning to analyze CT scans, X-rays and clinical data of COVID-positive patients to predict the risk of respiratory failure or the need for supportive treatment. Their goal is to help direct the allocation of hospital resources, including decision-making on admission and use of intensive care resources.", https://profiles.stanford.edu/matthew-lungren ,Biomedical
+Stanford,Model for hospital bed and resource use projections,N/A,"Scheinker’s team has developed two interactive models that are available online to the public. One helps project bed and resource capacity, and the other helps  project the number of hospitalizations countywide."," https://med.stanford.edu/profiles/david-scheinker 
+https://profiles.stanford.edu/david-scheinker ",Technology and Computer Science
+Stanford,Analysis of COVID-19 CT scans and X-rays for classification and prediction of patient outcomes,N/A,"Lungren and his collaborators are using imaging and clinical data to predict the risk of respiratory failure, mortality and length of hospital admission among patients with COVID-19. In addition, they aim to quantify CT scans of COVID 19 patients and auto-generate medical reports and correlate the scans to clinical outcomes, such as infection. ", https://profiles.stanford.edu/matthew-lungren ,Biomedical
+Stanford,Predicting best strategies for scarce resource allocation during COVID-19 pandemic,N/A,"Hernandez-Boussard and Desai will use data that shows the time of hospital admission up to the time of mechanical ventilation to predict patient recovery, details of hospital discharge and survival at 24 hours, 7 days, and later. This model will include important factors for COVID-19 recovery and will be continuously updated in real-time as emerging data become available. In the event of resource scarcity, this effort has the potential to inform optimal resource allocation at Stanford Health care."," https://profiles.stanford.edu/tina-hernandez-boussard 
+https://profiles.stanford.edu/manisha-desai ",Other
+Stanford,Modeling outcomes of COVID-19 patients,N/A,"Hernandez-Boussard and Desai plan to use data from patients who tested positive for COVID-19 at Stanford Health Care to investigate how disease burden varies significantly in patients infected with the virus. Currently, the association of co-infections, symptomatology, comorbidities and other parameters on patient trajectories is unknown."," https://profiles.stanford.edu/tina-hernandez-boussard 
+https://profiles.stanford.edu/manisha-desai ",Technology and Computer Science
+Stanford,"School closures, health care worker absenteeism, and child care subsidies",N/A,"School closures help reduce peak hospital bed demand, but they can unintentionally cause health care worker absenteeism for those with children. Huynh and Chin are examining the economic feasibility of child care subsidies, as well as the policy effects of child care interventions on absenteeism at Stanford Health Care."," https://profiles.stanford.edu/benjamin-huynh 
+https://med.stanford.edu/profiles/elizabeth-chin ",Technology and Computer Science
+Stanford,COVID-19 patients presenting in impending respiratory failure from ambulatory settings,N/A,Carmichael and Asch are investigating the connection between unusual symptoms of COVID-19 and the frequency that those cases become ambulatory patients with severe respiratory failure or impending severe respiratory failure. Their objective is to describe clinical factors that may identify people with COVID-19 predisposed to severe respiratory failure outside the hospital.," https://med.stanford.edu/profiles/harris-carmichael 
+https://profiles.stanford.edu/steven-asch ",Technology and Computer Science
+Stanford,Answering COVID-19 clinical research questions with electronic health record data,N/A,"Chang and Lu and their collaborators are collecting clinical questions related to COVID-19 that can be addressed through observational electronic health record data. The group is investigating connections between the disease and low levels of lymphocytes, lower cholesterol and abnormal chest X-rays. If you would like to submit a question, please do so here. A list of questions that have been submitted can be found here. Student submissions can be found here. For questions, please contact sm_covid_query@lists.stanford.edu."," https://profiles.stanford.edu/marcello-chang 
+https://med.stanford.edu/profiles/nigam-shah 
+https://profiles.stanford.edu/nigam-shah ",Biomedical
+Stanford,COVID-19 imaging utilization per patient admission,N/A,Lungren and his team are building a dashboard for real-time visualization of COVID-19 radiological imaging at Stanford Hospital. The tool will aid the hospital’s resource planning by forecasting the impact of incoming patients on bed use and by predicting expected radiological image use. The team will create a web-based dashboard that will be implemented at Stanford Hospital for better radiological resource management., https://profiles.stanford.edu/matthew-lungren ,Other
+Stanford,Using human organoids to understand COVID-19 infection ,N/A,"Kuo, Amieva and Blish are recreating the SARS-CoV-2 infection in three-dimensional human mini-organs, or “organoids.” SARS-CoV-2 is the virus that causes COVID-19. Kuo and Amieva are investigating details behind how the virus infects human lung and intestinal tissues through organoid models, and Blish is studying the response of individual cells infected with SARS-CoV-2."," https://profiles.stanford.edu/catherine-blish 
+https://med.stanford.edu/profiles/calvin-kuo 
+https://med.stanford.edu/profiles/catherine-blish 
+https://med.stanford.edu/profiles/manuel-amieva ",Biomedical
+Stanford,Systems biological “multi-omics” analysis of immunity to COVID-19 infection,N/A,Pulendran is investigating the interaction between the human immune system and the SARS-CoV-2 virus through systems-biological methods. His group will use a “multi-omics” approach to probe the host immune system response to SARS-CoV-2 during asymptomatic and symptomatic phases of infection. Their goal is to determine why some people get more severe symptoms than others and to identify biomarkers that predict disease severity in vulnerable populations. His group will also study the immune mechanisms by which vaccines confer protection against SARS-CoV-2., https://med.stanford.edu/profiles/bali-pulendran ,Technology and Computer Science
+Stanford,Deep omics profiling to determine the genomic factors at play in disease severity,N/A,"Ashley, Parikh and their team are sequencing genomic information from SARS-CoV-2 and human hosts to better understand the diversity of host responses to the virus. Their work aims to better elucidate genomic details underlying COVID-19 disease severity. To do so, the team will collect de-identified omic and clinical data for 1,000 Stanford patients who tested positive for COVID-19-, including hospitalized patients and patients who were in the intensive care unit."," https://profiles.stanford.edu/victoria-parikh 
+https://profiles.stanford.edu/carlos-bustamante 
+https://profiles.stanford.edu/matthew-wheeler 
+https://profiles.stanford.edu/euan-ashley 
+https://profiles.stanford.edu/manuel-rivas ",Technology and Computer Science
+Stanford,Multi-omics assessment of individuals infected with COVID-19,N/A,"The Snyder group will collect biological samples from individuals ill with COVID-19 and those most at risk for the disease, observing and assessing levels of certain molecules involved in several biological pathways, including metabolism and immune function. The team will use this information to create “omics” profiles to look for potential molecular signatures of COVID-19 infection, as well as signs that an individual might have a strong adverse reaction to the virus."," https://med.stanford.edu/profiles/michael-snyder 
+https://med.stanford.edu/profiles/maya-kasowski 
+https://med.stanford.edu/profiles/60982 ",Biomedical
+Stanford,Analysis of immune response to coronavirus via genomics,N/A,"Chang, Pinksy Boyd and Satpathy are collaborating with the company 10x Genomics to study the immune response to the coronavirus through single-cell genomics and clinical assays. The team will track immune responses in about 100 patients with COVID-19, performing in-depth molecular analyses of cells and blood samples."," https://profiles.stanford.edu/howard-chang 
+https://med.stanford.edu/profiles/benjamin-pinsky 
+https://profiles.stanford.edu/scott-boyd 
+https://profiles.stanford.edu/ansuman-satpathy 
+https://med.stanford.edu/profiles/howard-chang 
+https://profiles.stanford.edu/benjamin-pinsky ",Biomedical
+Stanford,Role of antibodies in SARS-CoV-2 infection and COVID-19 disease ,N/A,"Wang and her group are studying molecules that correlate with immunity against COVID-19. Their studies focus on defining a protective antibody response, and they will investigate whether antibodies have a role in determining the severity of COVID-19. The overarching goal of this work is to guide the development of vaccines and monoclonal antibody therapeutics against SARS-CoV-2.", https://profiles.stanford.edu/taia-wang ,Technology and Computer Science
+Stanford,Comparative pathology and pathogenesis of COVID-19 infections in humans and animal models,N/A,Nolan and his team are applying multiplexed technologies to achieve in-depth profiling of immune responses to SARS-CoV-2 in nonclinical and clinical studies. Their goal is to identify immune markers associated with outcomes for COVID-19 and understand the arrangement of immune cells relative to lung tissue cells during infection.," https://profiles.stanford.edu/sizun-jiang 
+https://profiles.stanford.edu/brice-gaudilliere 
+https://profiles.stanford.edu/david-mcilwain 
+https://profiles.stanford.edu/garry-nolan 
+https://abslab.sites.stanford.edu/ 
+https://surf.stanford.edu/covid-19-tools/covid-19/ ",Technology and Computer Science
+Stanford,Inflammatory bowel disease treatment in the time of COVID: Patient perceptions and decision-making ,N/A,"Kin and Streett are exploring how people with inflammatory bowel diseases, including people with Crohn's disease and ulcerative colitis whose treatment frequently involves chronic immunosuppressive therapies, are affected by the COVID-19 outbreak. The study aims to understand the primary concerns that patients with inflammatory bowel diseases have about their illnesses and treatments as they relate to the COVID-19 epidemic so that physicians and the health care team can effectively engage them in shared decision-making."," https://profiles.stanford.edu/sarah-streett 
+https://profiles.stanford.edu/cindy-kin ",Other
+Stanford,SARS-CoV-2 tissue specificity and its role in progression to multi-organ failure,N/A,"An increasing number of reports show the association of COVID-19 deaths with cardiac injury, cardiac arrest, arrhythmias and likely myocarditis. It is largely unclear if these serious and sometimes fatal conditions are due to direct SARS-CoV-2 influence, immunological responses or complications from existing cardiovascular disorders. Through this project, Boyd, Nielsen and their team aim to investigate which tissues support the growth of SARS-CoV-2. They will also analyze the local tissue B-cell-mediated immune responses in COVID-19 to assess for antibody responses contributing to tissue pathology.", https://profiles.stanford.edu/scott-boyd ,Technology and Computer Science
+Stanford,SARS-CoV-2 infection and cardiovascular complications,N/A,Wu and Nguyen are researching cardiovascular complications of COVID-19. The scientists are addressing the relationship between SARS-CoV-2 infection in heart muscle and vascular cells and the consequences of taking common drugs for high blood pressure. Their research employs muscle and vascular cells derived from human induced pluripotent stem cells to determine how these blood pressure drugs affect the virus’ ability to enter cells. ," https://profiles.stanford.edu/catherine-blish 
+https://profiles.stanford.edu/ming-wu 
+https://profiles.stanford.edu/patricia-nguyen 
+https://med.stanford.edu/profiles/catherine-blish 
+https://profiles.stanford.edu/jan-carette ",Biomedical
+Stanford,The Apollo study,N/A,"Bondy, Nelson and Goodman have launched a national survey that aims to assess how the COVID-19 pandemic is affecting the population physically, socially, emotionally and financially. The team’s survey is hosted by an app, called Apollo, that’s designed to screen patients at drive-through COVID-19 testing sites."," https://med.stanford.edu/profiles/steven-goodman 
+https://profiles.stanford.edu/lorene-nelson 
+https://med.stanford.edu/profiles/melissa-bondy 
+https://med.stanford.edu/profiles/lorene-nelson ",Technology and Computer Science
+Stanford,Caregiver survey COVID-19,N/A,"Trivedi and her team are conducting an anonymous online survey to better understand the experiences of informal caregivers during the COVID-19 pandemic. Informal caregivers are family members or friends who provide significant help to people with mental or physical health conditions. Trivedi aims to use the results of the survey to guide advocacy efforts in support of informal caregivers. A link to the approximately 20-minute survey, which can be taken from anywhere in the world, is available at https://is.gd/stanfordcaregiverstudy.", https://profiles.stanford.edu/ranak-trivedi ,Technology and Computer Science
+Stanford,Optimized remote work during the COVID-19 pandemic,N/A,"Paredes and collaborators are creating digital tools to support and maintain productivity levels while managing stress associated with the COVID-19 pandemic, social distancing and long-term telecommuting. The researchers propose a collection of tools, dubbed “Home Sweet Office,” that can support personal productivity by managing procrastination caused by online behaviors, such as overuse of social media, and provide stress-management tactics and emotion-regulation interventions.", https://med.stanford.edu/profiles/pablo-paredes-castro ,Other
+Stanford,Psychological stress associated with remote work during COVID-19 crisis,N/A,"Adamson and her lab are studying the global impact of psychological stress during the COVID-19 crisis. They are using an eight- to 10-minute survey to help evaluate individual stress levels caused by factors related to remote work, homeschooling and dependent care."," https://profiles.stanford.edu/julian-martinez-rincon 
+https://profiles.stanford.edu/maheen-adamson 
+https://profiles.stanford.edu/angela-phillips ",Technology and Computer Science
+Stanford,Impact of COVID-19 pandemic on sleep and mental health,N/A,"Goldstein-Piekarski and the Computational Psychiatry and Neuroimaging Sleep Lab (CoPsyN Sleep Lab) are conducting a survey-based study examining the short- and long-term impacts of the COVID-19 pandemic and the shelter-in-place orders on sleep, mood and quality of life. The data collected in this study will also help identify factors that predict the development of chronic sleep problems and other negative mental health outcomes arising from stressful life events. ", https://med.stanford.edu/profiles/andrea-goldstein-piekarski ,Technology and Computer Science
+Stanford,Gastrointestinal manifestations in SARS-CoV-2,N/A,"Cholankeril, Podboy and Ahmed aim to characterize the gastrointestinal symptoms associated with SARS-CoV-2 infection. Nearly one-third of patients in their study had gastrointestinal symptoms while infected with SARS-CoV-2. The team also saw mild elevations in liver enzymes in some patients, which may correlate with a need for a higher level of care. The group is continuing to investigate if gastrointestinal symptoms and liver enzyme abnormalities at presentation could be associated with increased severity of illness, requiring an escalation of care or higher rate of health care utilization."," https://med.stanford.edu/profiles/alexander-podboy 
+https://profiles.stanford.edu/aijaz-ahmed 
+https://profiles.stanford.edu/george-cholankeril ",Technology and Computer Science
+Stanford,Rates of co-infection between SARS-CoV-2 and other respiratory pathogens,N/A,"The scientists published a research letter that reports on how often patients infected with the coronavirus in Northern California are co-infected with other respiratory pathogens. Results of their analysis suggest higher rates of co-infection than previously reported, with no significant difference in rates of SARS-CoV-2 infection in patients with and without other pathogens. The study indicates that the presence of a non–SARS-CoV-2 pathogen does not provide reassurance that a patient isn’t also infected with SARS-CoV-2."," https://med.stanford.edu/profiles/157679 
+https://med.stanford.edu/profiles/nigam-shah 
+https://med.stanford.edu/profiles/benjamin-pinsky 
+https://profiles.stanford.edu/james-quinn 
+https://profiles.stanford.edu/nigam-shah 
+https://profiles.stanford.edu/ian-brown 
+https://profiles.stanford.edu/benjamin-pinsky ",Other
+Stanford,"  The list isn’t comprehensive and instead represents a portion of Stanford Medicine research on COVID-19. If you are a Stanford Medicine scientist and would like to see your research included here, please send a note to: stanfordmed-communications@stanford.edu.",N/A,Support Stanford Medicine’s response to COVID-19 by making a gift.," https://pcrt.stanford.edu/covid 
+https://hai.stanford.edu/research/covid-19-collaboration-opportunities 
+https://hai.stanford.edu/covid-19-collaboration-clearinghouse 
+https://abslab.sites.stanford.edu/ 
+https://surf.stanford.edu/covid-19-tools/covid-19/ ",Technology and Computer Science
+Virginia Tech,Agency for International Development (USAID),,Partners may submit unsolicited proposals to COVID19_Concepts@usaid.gov.,https://www.usaid.gov/coronavirus/funding-requests-unsolicited-proposals,Technology and Computer Science
+Virginia Tech,Biomedical Advanced Research and Development Authority (BARDA),,"The due date was extended to 10/31/2020.
+COVID-19 response related Areas of Interest includes: AOI 7.7.1 Diagnostic assay for human coronavirus using existing FDA-cleared platforms AOI 7.7.2 Point-of-care diagnostic assay for detection of SARS-CoV-2 virus AOI 7.7.3 Diagnostic assay for detection of COVID-19 disease (SARS-CoV-2 infection) AOI 8.3 COVID-19 Vaccine AOI 9.2 COVID-19 Therapeutics AOI 9.3 Immunomodulators or therapeutics targeting lung repair AOI 9.5 Pre-exposure and post-exposure prophylaxis AOI 10 Respiratory protective devices AOI 11 Ventilators AOI 17 Advanced Manufacturing Technologies",https://beta.sam.gov/opp/7c72ff2e5c514b2faa15765e78294128/view#general,Technology and Computer Science
+Virginia Tech,Department of Defence (DOD) Defense Advanced Research Projects Agency (DARPA) Biological Technologies Office (BTO),,"Proposal Abstract Due Date and Time: Abstracts may be submitted on a rolling basis until 4:00 PM ET, April 22, 2021. Full Proposal Due Date and Time: Proposals may be submitted on a rolling basis until 4:00 PM ET, April 22, 2021.
+BTO is interested in submissions related to the following areas: - Discovering and leveraging novel findings from biotechnology, biochemistry, molecular biology, neuroscience, psychology, cognitive science, and related disciplines to advance treatment and resilience in neurological health, transformative neural processing, and optimize human performance. - Understanding and improving interfaces between the biological and physical world to enable seamless hybrid systems and revolutionary new human-machine interfaces. - Designing novel materials, sensors, or processes that mimic or are inspired by biological systems. - Leveraging and translating a biological system’s underlying design rules, functional processes, and/or means of interactivity to provide insight into or control over complex biological systems from biofilms to organs. - Developing new tools and capabilities for forward engineering of biological systems, such as cells, tissues, organs, organisms, and complex communities, to both develop new products and functional systems, as well as to gain new insights into underlying mechanisms. There are many more areas of interest listed in the guidelines.",https://beta.sam.gov/opp/4efd37762ed0475d871af927279f010d/view,Technology and Computer Science
+Virginia Tech,Department of Homeland Security (DHS),,"The COVID-19 pandemic has had an impact on many facets of DHS operations as well as the health and safety of agents, officers and the public.  While this SVIP COVID-19 Response & Future Mitigation Topic Call is intended to address several near-term use cases in response to the current pandemic, it is envisioned these solutions will have broader application to enhancing DHS operations as well as prepare DHS for any future mitigation. As DHS, state and local agencies, private industry and the public respond to the impacts of the COVID-19 pandemic and eventually resume operations safely within the context of a COVID-19 environment, there exists the need for solutions for a variety of purposes across DHS as well as our state and local and other Federal partners. The following illustrative scenarios / use cases are intended to describe where the technologies being sought by DHS in this topic call could potentially be applied: (1) Test and Validation Service for Security & Privacy of Contact Tracing Apps (2) Video Analytics for Self-Screening at TSA Checkpoints (3) Methods to Rapidly Disinfect Surfaces at TSA Checkpoints and other DHS Facilities (4) Collection and Integration of Authoritative Quantitative Open-Source Information (5) Stand-Off Methods for Point of Care Entry Detection at DHS Facilities.",https://beta.sam.gov/opp/01cbeafa8c0e47428ddd30693b4c47d6/view?keywords=%22Emerging%20Needs%22&sort=-relevance&index=&is_active=true&page=1&date_filter_index=0&inactive_filter_values=false&organization_id=100013095&refresh=y,Technology and Computer Science
+Virginia Tech,Economic Development Administration (EDA),,"There are no submission deadlines under this opportunity. Applications will be accepted on an ongoing basis until the publication of a new PWEAA NOFO.
+Under this NOFO, EDA solicits applications from applicants in rural and urban areas to provide investments that support construction, non-construction, technical assistance, and revolving loan fund projects under EDA’s Public Works and EAA programs. Grants and cooperative agreements made under these programs are designed to leverage existing regional assets and support the implementation of economic development strategies that advance new ideas and creative approaches to advance economic prosperity in distressed communities. EDA provides strategic investments on a competitive- merit-basis to support economic development, foster job creation, and attract private investment in economically distressed areas of the United States. If you are interested in applying for a project of national impact/scope under the CARES Act; please inquire at RNTA@eda.gov.",https://www.grants.gov/web/grants/view-opportunity.html?oppId=321695,Other
+Virginia Tech,FastGrants,,"The review starts on 4/12/2020, but FastGrants will continue to review applications after that date.
+If you are a scientist at an academic institution currently working on a COVID-19 related project and in need of funding, we invite you to apply for a Fast Grant. Fast Grants are $10k to $500k and decisions are made in under 48 hours. If we approve the grant, you'll receive payment as quickly as your university can receive it.",https://fastgrants.org/,Technology and Computer Science
+Virginia Tech,"Gilead Sciences, Inc.",,"Mandatory letter of intent (LOI) due August 3, 2020. June 8th. After Aug 3, 2020, Gilead will evaluate and rank all LOIs. Top ranked LOIs will be invited to submit a full application and additional instructions will be provided to the submitter.
+In an effort to further address the unmet medical need in COVID-19, Gilead Medical Affairs is launching the COMMIT program. The COMMIT program will support well defined individual projects of no more than $250,000 USD or equivalent sum; projects that are more than $250,000 will require approval by Gilead prior to submission. Successful projects should demonstrate clear objectives, defined timelines, a comprehensive operational plan, and propose data that has relevance to the medical community. Note: these projects will not have objectives/endpoints that overlap with studies that are known to be currently underway as of the day of the approval of the proposal, including those studies that are sponsored by either Gilead and/or third parties. See guidelines for research criteria.",https://www.gilead.com/science-and-medicine/research/investigator-sponsored-research/covid19-commit-rfp,Technology and Computer Science
+Virginia Tech,Kaggle,,"The White House and a coalition of leading research groups have prepared the COVID-19 Open Research Dataset (CORD-19). CORD-19 is a resource of over 45,000 scholarly articles, including over 33,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses. Develop text and data mining tools that can help the medical community develop answers to high priority scientific questions. The CORD-19 dataset represents the most extensive machine-readable coronavirus literature collection available for data mining to date.",https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge,Technology and Computer Science
+Virginia Tech,NIH - National Cancer Institute (NCI),,"Applications will be accepted on a rolling basis from July 6, 2020, through August 14, 2020.
+Through this Notice of Special Interest (NOSI), the National Cancer Institute (NCI) announces an opportunity for current NCI funded Principal Investigators whose postdoctoral fellows have temporarily lost stipend support from a non-profit funder because of the COVID-19 global pandemic may apply for an administrative supplement to cover the postdoctoral fellow’s salary plus applicable F&A for the time and effort devoted to the NCI funded grant.",https://grants.nih.gov/grants/guide/notice-files/NOT-CA-20-082.html,Technology and Computer Science
+Virginia Tech,NIH - National Center for Advancing Translational Sciences (NCATS),,"Applications will be accepted on a rolling basis from May 15, 2020 to January 25, 2022.
+National Center for Advancing Translational Sciences (NCATS) will accept the submission of applications for Competitive Revisions to active grants to address only the following research areas of interest: 1) Incorporation of new and emerging data related to SARS-CoV-2 into ongoing research efforts to develop microphysiological systems/tissue chips models for COVID-19, 2) Use of microphysiological systems/tissue chips or evaluating, repurposing or modification of diagnostic tools to enable rapid detection of COVID-19 infection, 3) Use of microphysiological systems/tissue chips for the rapid development and assessment of potential therapeutic agents for COVID-19.",https://grants.nih.gov/grants/guide/notice-files/NOT-TR-20-017.html,Technology and Computer Science
+Virginia Tech,NIH - National Center for Advancing Translational Sciences (NCATS),,"Applications will be accepted on a rolling basis through November 10, 2020.
+The National Center for Advancing Translational Sciences (NCATS) is issuing this Notice of Special Interest (NOSI) to highlight the need for projects that address the coronavirus disease 2019 (COVID-19) Public Health Emergency. The Clinical and Translational Science Award (CTSA) Program is uniquely qualified to contribute to these efforts. NCATS is soliciting applications for Administrative Supplements (through PA-18-591) from current Clinical and Translational Science Award (CTSA) UL1 and U24 award recipients. See guidelines for specific FOAs.",https://grants.nih.gov/grants/guide/notice-files/not-tr-20-029.html,Technology and Computer Science
+Virginia Tech,"NIH - National Heart, Lung, and Blood Institute (NHLBI)",,"Applications will be accepted on a rolling basis through October 05, 2020
+National Heart, Lung, and Blood Institute (NHLBI) is encouraging the submission of applications for either Administrative Supplements (PA-18-591) or Competitive Revisions (PA-18-935) to active grants to address research on Coronavirus Disease 2019 (COVID-19) and on biological effects of its causative agent, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Topics of specific interest to NHLBI include host response, associations with heart, lung, and blood (HLB) diseases, potential impacts on transfusion safety, and clinical outcomes of infected individuals.",https://grants.nih.gov/grants/guide/notice-files/NOT-HL-20-757.html,Biomedical
+Virginia Tech,NIH - National Institute of Allergy and Infectious Diseases (NIAID),,"Applications will be accepted on a rolling basis, beginning on 04/30/2020.
+The purpose of this Funding Opportunity Announcement (FOA) is to provide an expedited funding mechanism for research on Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) and Coronavirus Disease 2019 (COVID-19). NIAID is issuing this FOA in response to the declared public health emergency issued by the Secretary, HHS, for 2019 Novel Coronavirus (COVID-19). See guidelines for areas of high priority.",https://grants.nih.gov/grants/guide/pa-files/PAR-20-178.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Allergy and Infectious Diseases (NIAID),,"Applications for this limited competition FOA will be accepted on a rolling basis, beginning July 13, 2020.
+The purpose of this public health emergency funding opportunity is to provide Personal Protective Equipment (PPE) to directly support the needs of the NIAID’s vaccine and treatment clinical trials and clinical studies for COVID-19. This program will ensure that adequate protective equipment is available to directly assist in safely carrying out the clinical activities and direct interactions with the patients participating in the trial. Eligibility is limited to recipients conducting COVID-related clinical research and clinical studies supported by NIAID’s emergency appropriation provided by “The Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020” and “The Coronavirus Aid, Relief and Economic Security (CARES) Act”.",https://grants.nih.gov/grants/guide/pa-files/PAR-20-256.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Biomedical Imaging and Bioengineering (NIBIB),,"Applications will be accepted on a rolling basis through November 10, 2020
+The National Institute of Biomedical Imaging and Bioengineering (NIBIB) is issuing this Notice of Special Interest (NOSI) to highlight the urgent need for accelerating the development, translation, and commercialization of technologies to address Coronavirus Disease 2019 (COVID-19). The NIBIB is seeking applications from current grantees to develop life-saving technologies that can be ready for commercialization within one to two years. Please see notice for examples of technologies.",https://grants.nih.gov/grants/guide/notice-files/not-eb-20-008.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),,"Letter of Intent is due November 16, 2020, but is not required.
+The purpose of this Funding Opportunity Announcement (FOA) is to support basic and clinical mechanistic research on Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) and Coronavirus Disease 2019 (COVID-19) susceptibility, routes of infection, course of disease, morbidity and mortality in people with pre-existing diseases, or adverse acute or chronic outcomes in organs, tissues, and biological systems of specific interest to NIDDK. These include diabetes and other metabolic diseases, obesity, and endocrine, digestive, liver, pancreas, kidney, urological, and hematologic tissues and diseases.",https://grants.nih.gov/grants/guide/rfa-files/RFA-DK-20-021.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of General Medical Sciences (NIGMS),,"Applications will be accepted on a rolling basis through February 5, 2021.
+National Iinstitute of General Medical Sciences will accept the submission of applications for Competitive Revisions to active grants to address only the following research areas of interest: Incorporation of data related to SARS-CoV-2 into ongoing research efforts to develop predictive models for the spread of SARS-CoV-2 and other related infectious agents (all relevant grants). Repurposing or modification of diagnostic tools currently under development to enable rapid detection of SARS-CoV-2 infection (SBIR/STTR grants only). Rapid development of potential therapeutic agents for COVID-19 (SBIR/STTR only).",https://grants.nih.gov/grants/guide/notice-files/NOT-GM-20-025.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Health,,"Letter of intent (LOI) due date is 8/4/2020, but is not mandatory. Only 2 applications per institution. See the VT Limited Submission system to declare internal notice of intent.
+The NIH Director's Early Independence Award (a component of the High-Risk, High-Reward Research program of the NIH Common Fund) provides an opportunity for exceptional junior scientists to accelerate their entry into an independent research career by forgoing the traditional post-doctoral training period. Though most newly graduated doctoral-level researchers would benefit from post-doctoral training, a small number of outstanding junior investigators are capable of launching directly into an independent research career. For those select junior investigators who have already established a record of scientific innovation and research productivity and have demonstrated unusual scientific vision and maturity, typical post-doctoral training would unnecessarily delay their entry into independent research. Due to the COVID-19 public health emergency, the Common Fund will dedicate funds provided by the CARES Act to support a total of 5-10 Early Independence Awards (through this FOA) or Transformative Research Awards (through RFA-RM-20-020) that bring new, innovative perspectives and approaches to the prevention of, preparation for, or response to coronavirus SARS-CoV-2, domestically or internationally. Any relevant area of coronavirus SARS-CoV-2 research is welcome, including behavioral/social science research, research on health disparities, novel therapeutics, and other related topics.",https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-20-021.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Health - Muliple divisions,,"Applications may be submitted either on 08/28/2020 or 12/01/2020.
+This Funding Opportunity Announcement (FOA) encourages research with NIH-designated health disparity populations and other vulnerable groups on community interventions to address the adverse psychosocial, behavioral, and socioeconomic effects of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) and Coronavirus Disease 2019 (COVID-19). Applications are sought to test: 1) the impacts of mitigation strategies to prevent COVID-19 transmission and acquisition; and 2) already implemented, new, or adapted interventions to address the adverse consequences of the pandemic on the health of these groups.",https://grants.nih.gov/grants/guide/pa-files/PAR-20-237.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Health - Muliple divisions,,"Letter of intent is due 07/08/2020, but not required. Only one application per institution is allowed. Please indicate interest in the VT Limited Submission System.
+NIH is issuing this FOA in response to the declared public health emergency issued by the Secretary, HHS, for 2019 Novel Coronavirus (COVID-19). This emergency cooperative agreement funding opportunity announcement (FOA) from the National Institutes of Health (NIH) provides an expedited funding mechanism as part of the Rapid Acceleration of Diagnostics-Underserved Populations (RADx-UP) initiative, a consortium of community-engaged research projects to understand factors that have led to disproportionate burden of the pandemic on the underserved and/or vulnerable populations so that interventions can be implemented to decrease these disparities. This FOA seeks to fund a single Coordination and Data Collection Center (CDCC) as an integral part of the consortium.",https://grants.nih.gov/grants/guide/rfa-files/RFA-OD-20-013.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Health - Muliple divisions,,"Applications will be accepted on a rolling basis through March 31, 2021.
+The following Institute/Centers :Office of Behavioral and Social Sciences Research (OBSSR), National Heart, Lung, and Blood Institute (NHLBI), National Institute on Aging (NIA), National Institute on Alcohol Abuse and Alcoholism (NIAAA), National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK), National Institute of Environmental Health Sciences (NIEHS), National Center for Complementary and Integrative Health (NCCIH) are encouraging the submission of applications for either Administrative Supplements (PA-18-591) or Competitive Revisions (PA-18-935) to active grants. This Notice of Special Interest (NOSI) highlights the urgent need for social, behavioral, economic, health communication, and epidemiologic research relevant to the 2019 Novel Coronavirus (SARS-CoV-2) and COVID-19. This NOSI encourages urgent competitive supplements and administrative supplements to existing longitudinal studies that address key social and behavioral questions related to the COVID-19 pandemic, including adherence to and transmission mitigation from various containment and mitigation efforts; social, behavioral, and economic impacts from these containment and mitigation efforts; and downstream health impacts resulting from these social, behavioral, and economic impacts,including differences in risk and resiliency based on gender, race and ethnicity, socioeconomic status, and other social determinants of health.",https://grants.nih.gov/grants/guide/notice-files/not-od-20-097.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Health - Muliple divisions,,"Applications may be submitted beginning on July 8, 2020 for Application Due Dates of August 7, 2020 OR September 8, 2020. Applications received after September 8, 2020 will not be considered.
+This Notice of Special Interest (NOSI) highlights the urgent need to understand the social, ethical, and behavioral implications (SEBI) of COVID-19 testing among underserved and/or vulnerable populations across the United States through the Rapid Acceleration of Diagnostics for Underserved Populations (RADx-UP) initiative. The overarching goal is to understand factors that have led to disproportionate burden of the pandemic on these underserved populations so that interventions can be implemented to decrease these disparities.",https://grants.nih.gov/grants/guide/notice-files/NOT-OD-20-119.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Health - Muliple divisions,,"Applications will be accepted on a rolling basis from May 01, 2020 through May 01, 2021.
+The National Institute on Minority Health and Health Disparities (NIMHD) is issuing this Notice of Special Interest (NOSI) to highlight the urgent need for research on the impact of the novel Coronavirus (SARS-CoV-2) pandemic causing COVID-19 disease outbreaks and the resulting disruptions on individual and social wellbeing, health services use, and health outcomes for NIH-designated health disparity populations.The National Institute of Mental Health (NIMH) will accept and consider support for applications for supplements and revisions to NIMH projects that fall within the scope of this announcement and are relevant to the mission and strategic priorities of the NIMH. Applications to examine how a disrupted workforce may adequately respond/adapt to and maintain services or provide additional care for new or worsening mental health needs where we anticipate health disparities will be most prominent will be seen as a high priority. The National Institute on Aging (NIA) will accept applications for supplements and revisions to NIA-supported projects that fall within the scope of this announcement and are relevant to the mission and strategic priorities of the NIA. Applications are encouraged that address the specific needs and circumstances of midlife and older adults, including, but not limited to, individuals with Mild Cognitive Impairment (MCI), Alzheimer's disease and Alzheimer's disease related dementias (AD/ADRD) and their healthcare providers and caregivers.",https://grants.nih.gov/grants/guide/notice-files/NOT-MD-20-019.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Health - Muliple divisions,,"Applications may be submitted beginning on July 8, 2020 for Application Due Dates of August 7, 2020 OR September 8, 2020. Applications received after September 8, 2020 will not be considered.
+This Notice of Special Interest (NOSI) highlights the urgent need to understand and address COVID-19 morbidity and mortality disparities among underserved and vulnerable populations across the United States. These two-year community-engaged Testing Research Projects will examine SARS-CoV-2 infection patterns and efforts to increase access and effectiveness of diagnostic methods through the Rapid Acceleration of Diagnostics for Underserved Populations (RADx-UP) initiative. The overarching goal is to understand factors that have led to disproportionate burden of the pandemic on these underserved populations so that interventions can be implemented to decrease these disparities.",https://grants.nih.gov/grants/guide/notice-files/NOT-OD-20-120.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Health - Muliple divisions,,"Applications will be accepted on a rolling basis from April 6, 2020 through May 1, 2021.
+National Institute on Aging (NIA) is encouraging the submission of applications for either Administrative Supplements (PA-18-591) or Competitive Revisions (PA-18-935) to active grants to address the following research areas of interest: Division of Aging Biology, Division of Neuroscience, Division of Geriatrics and Clinical Gerontology, Division of Behavioral and Social Research. The National Institute of Mental Health (NIMH) will accept and consider support for applications for supplements and revisions to NIMH projects that fall within the scope of this announcement and are relevant to the mission and strategic priorities of the NIMH. Applications to examine how a disrupted workforce may adequately respond/adapt to and maintain services or provide additional care for new or worsening mental health needs and/or suicide risk in midlife and older age adults will be seen as a high priority.",https://grants.nih.gov/grants/guide/notice-files/NOT-AG-20-022.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute on Aging (NIA),,"Applications will be accepted on a rolling basis through February 01, 2021.
+This Funding Opportunity Announcement (FOA) invites applications for implementation of investigator-initiated multi-site clinical trials (all phases or stages) of interventions focused on specific aging-related issues to reducing transmission, risk, morbidity, mortality, severity, or complications of Coronavirus Disease 2019 (COVID-19).",https://grants.nih.gov/grants/guide/pa-files/PAR-20-234.html,Biomedical
+Virginia Tech,NIH - National Institute on Drug Abuse (NIDA),,"Applications will be accepted on a rolling basis through March 31, 2021.
+National Institute on Drug Abuse (NIDA) is encouraging the submission of applications for either Administrative Supplements (PA-18-591) or Competitive Revisions (PA-18-935) to active grants to address research collecting and examining data on the risks and outcomes for COVID-19 infection in individuals suffering from substance use disorders.",https://grants.nih.gov/grants/guide/notice-files/NOT-DA-20-047.html,Technology and Computer Science
+Virginia Tech,National Aeronautics and Space Administration (NASA),,"Applications will be accepted on a rolling basis through March 29, 2021.
+Current Principal investigators within NASA's Earth Science Division (ESD) Research and Analysis (R&A), Applied Sciences Program (ASP), and Earth Science Data Systems Program (ESDS) have begun to reach out to their program managers to explore and/or ask about the possibility of redirecting existing efforts and/or requesting additional support to utilize NASA products to address the environmental, economic, and/or societal impacts of the COVID-19 pandemic. Relative to potential requests for new and/or additional support, NASA's Earth Science Division (ESD) would like to call the attention of the Earth Science research, applications, and data systems communities to Program Element A.28 ""Rapid Response and Novel Research in Earth Science"" (RRNES) of Research Opportunities in Space and Earth Sciences (ROSES) 2020 as an opportunity to propose investigations making innovative use of NASA satellite data to address regional-to-global environmental, economic, and/or societal impacts of the COVID-19 pandemic.",https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=742447/solicitationId=%7B3F3DFBFB-8FEE-F317-63FD-CB84ECA833EC%7D/viewSolicitationDocument=1/RRNES_NSPIRES%20note_v4.pdf,Technology and Computer Science
+Virginia Tech,National Science Foundation (NSF),,"Development and deployment of new technologies, products, processes, and services with the potential to positively impact the nation's and world's ability to respond to the COVID-19 crisis. Areas of research that might be considered include, but are not limited to: artificial intelligence, digital health, diagnostics, distributed ledger, environmental technologies, medical devices, pharmaceutical technologies, disinfection and sterilization, and filtration and separations.",https://www.nsf.gov/pubs/2020/nsf20065/nsf20065.jsp?org=NSF,Other
+Virginia Tech,National Science Foundation (NSF),,"Accepting proposals to conduct non-medical, non-clinical-care research that can be used immediately to better understand how to model and understand the spread of COVID-19; to inform and educate about the science of virus transmission and prevention; and to encourage the development of processes and actions to address this global challenge. Through this DCL, the Office of Advanced Cyberinfrastructure (OAC) within the Directorate for Computer and Information Science and Engineering is inviting RAPID proposals and supplemental funding requests to existing awards that address COVID-19 challenges through data and/or software infrastructure development activities.",https://www.nsf.gov/pubs/2020/nsf20055/nsf20055.jsp,Other
+Virginia Tech,Oak Ridge National Laboratory (ORNL),,"The Department of Energy Basic Energy Sciences advanced neutron sources will provide remote rapid access to advanced user facilities to support research into the COVID-19 virus and the search for effective diagnostics and therapies. Facilities that will be made available at the Spallation Neutron Source (SNS) and High Flux Isotope Reactor (HFIR) at Oak Ridge National Laboratory (ORNL), include neutron macromolecular crystallography, small-angle scattering, reflectometry, spectroscopy and imaging beamlines. All users must be registered and their home institution must have an active User Agreement. Faculty should contact ospcontracts@vt.edu for assistance if they wish to request access. No need to enter the request in Summit.",https://neutrons.ornl.gov/covid-19,Technology and Computer Science
+Virginia Tech,Russell Sage Foundation,,"For its August 5, 2020 deadline, RSF will only accept letters of inquiry relevant to one of RSF’s core programs - see description.
+The Russell Sage Foundation (RSF) has long supported social science research with the aim of improving social and living conditions in the United States.  In response to the crises of 2020, the foundation is dedicating its next funding cycle exclusively to research that seeks to improve our understanding of these extraordinary times. The severe consequences of the Covid19-pandemic, including its economic disruptions, and the recent mass protests to combat systemic racial inequality in policing and other institutions have reaffirmed the importance of social science research examining economic, political, racial, ethnic, generational, and social inequalities relevant to public policy and social change. For its August 5, 2020 deadline, RSF will only accept letters of inquiry relevant to one of RSF’s core programs that address at least one of the following issues: 1)Research on the Covid-19 pandemic and the resulting recession in the U.S. and 2) Research focused on systemic racial inequality and/or the recent mass protests in the U.S.",https://www.russellsage.org/how-to-apply/application-deadlines,Technology and Computer Science
+Virginia Tech,Argonne National Laboratory (ANL),,"The Advance Photon Source continues to operate, providing expedited, remote access but only for research related to COVID-19 at this time. The Structural Biology Portal lists available APS beamlines for macromolecular crystallography and BioSAXS. Step-by-step instructions on how to apply for expedited beam time are listed on the New User Checklist. All users must be registered and their home institution must have an active User Agreement. Faculty should contact ospcontracts@vt.edu for assistance if they wish to request access. No need to enter the request in Summit.",https://www.aps.anl.gov/Users-Information/covid19/proposal,Technology and Computer Science
+Virginia Tech,Brookhaven National Laboratory (BNL),,The Center for Biomolecular Structure team is supporting remote macromolecular crystallography experiments at Beamlines 17-ID-1 (AMX) and 17-ID-2 (FMX) for research projects related to COVID-19. All users must be registered and their home institution must have an active User Agreement. Faculty should contact ospcontracts@vt.edu for assistance if they wish to request access. No need to enter the request in Summit.,https://www.bnl.gov/ps/,Technology and Computer Science
+Virginia Tech,Department of Energy (DOE),,"Department of Energy (DOE) has unique capabilities that the scientific community may leverage for the COVID-19 response and recovery. The Department encourages you to consider scientific questions that underpin COVID-19 response and that the research community may answer using DOE user facilities, computational resources, and enabling infrastructure. Please send research questions that the scientific community may address with DOE resources by email to SC.DCL@ science.doe.gov",https://science.osti.gov/-/media/sc-1/pdf/COVID-19-letter.pdf?la=en&hash=2A142317F56F185FC3E2CEF0AEAD6CACB3E70C7F,Technology and Computer Science
+Virginia Tech,Department of State; U.S. Mission to India,,"This funding opportunity seeks to support effective coalitions that will bolster and leverage U.S.-India collaboration across a range of fields to fight COVID-19, in India and globally. Potential grantees should be able to implement a small-grants program to promote innovation in addressing COVID-19, encourage partnerships between U.S. and Indian institutions and organizations in combating COVID-19, and facilitate joint action that makes a difference against the disease. The grant will provide resources for a grantee to manage and administer small grants to stakeholders from government organizations, non-profits, think tanks, academic institutions, incubators and accelerators, in close coordination with the U.S. Mission to India. See guidelines for project areas.",https://www.grants.gov/web/grants/view-opportunity.html?oppId=326595,Other
+Virginia Tech,Extreme Science and Engineering Discovery Environment (XSEDE),,"No specific due date for submission. XSEDE will be reviewing the applications on a continous basis.
+To request access to resources of the COVID-19 HPC Consortium, you must prepare a description, no longer than three pages, of your proposed work. To ensure your request is directed to the appropriate resource(s), your description should include the following sections.",https://www.xsede.org/covid19-hpc-consortium,Technology and Computer Science
+Virginia Tech,Food and Drug Administration (FDA),,"Applications will be reviewed on a rolling basis through 9/24/2020.
+A research opportunity is currently available with the Division of Plasma Protein Therapeutics (DPPT), in the Office of Tissues and Advanced Therapies (OTAT), at the Center for Biologics Evaluation and Research (CBER), Food and Drug Administration (FDA) located in Silver Spring, Maryland. The recent emergence of SARS-CoV-2, the causative agent of COVID-19, has sparked a global search for effective therapies and a vaccine. DPPT has a research opportunity for a recent graduate in computational biology /bioinformatics / computer science to be involved with a project related to COVID-19. The project focuses on using computational models to predict efficacy of novel drugs and biologics, including neutralizing antibodies, against SARS-CoV-2. The project also has a focus on vaccine design through sequence deoptimization. This will involve the use of existing bioinformatics pipelines and development of novel computational tools.",https://www.zintellect.com/Opportunity/Details/FDA-CBER-2020-0035,Technology and Computer Science
+Virginia Tech,Health Effects Institute (HEI),,"Mandatory letter of intent (LOI) due June 8th. Applicants will be informed whether or not to submit a full application by early July. HEI may contact the applicant to advise him or her about how to make the application more responsive to the specific objectives of the RFA.
+Request for Applications 20-1B solicits applications for research on novel and important aspects of the intersection of exposure to air pollution and COVID-19 health outcomes. Applicants will be asked to submit a detailed letter of intent, followed by an invited full application, using an expedited application review process. HEI is particularly interested in applications that address the following questions: (1) Accountability research: What are the effects of the unprecedented interventions taken to control the COVID-19 pandemic on emissions, air pollution, and human health? (2) Susceptibility factors: Are individuals/populations who have been chronically or acutely exposed to higher levels of air pollution at greater risk of mortality from COVID-19 compared to those exposed to lower levels of air pollution? Do the effects differ by race/ethnicity or by measures of socioeconomic status?",https://www.healtheffects.org/research/funding/rfa-20-1b-air-pollution-covid-19-and-human-health,Technology and Computer Science
+Virginia Tech,Mozilla,,"Applications will be reviewed on a rolling basis.
+Mozilla will provide awards of up to $50,000 each to open source technology projects which are responding to the COVID-19 pandemic in some way. As part of the COVID-19 Solutions Fund, we will accept applications that are hardware (e.g., an open source ventilator), software (e.g., a platform that connects hospitals with people who have 3D printers who can print parts for that open source ventilator), as well as software that solves for secondary effects of COVID-19 (e.g., a browser plugin that combats COVID related misinformation).",https://blog.mozilla.org/blog/2020/03/31/moss-launches-covid-19-solutions-fund/,Technology and Computer Science
+Virginia Tech,NIH - National Center for Advancing Translational Sciences (NCATS),,"Applications will be accepted on a rolling basis from May 15, 2020 to January 25, 2022.
+National Center for Advancing Translational Sciences (NCATS) is encouraging the submission of applications for Administrative Supplements (PA-18-591). NCATS is issuing this Notice of Special Interest (NOSI) to highlight the urgent need for research on the COVID-19. NCATS is especially interested in research in the use of microphysiological systems or tissue chips in collecting and examining data on the risks and outcomes for COVID-19 infection, and advance the translation of research findings into diagnostics, therapeutics, and vaccines. A multi-organ on chip approach is strongly encouraged though not required.",https://grants.nih.gov/grants/guide/notice-files/NOT-TR-20-016.html,Technology and Computer Science
+Virginia Tech,NIH - National Center for Advancing Translational Sciences (NCATS),,"There are various due dates for the different award types. Check the solicitation for specific due dates.
+National Center for Advancing Translational Sciences (NCATS) is issuing this Notice of Special Interest (NOSI) to highlight the urgent need for research on the 2019 novel Coronavirus (COVID-19). NCATS is particularly interested in projects focusing on the use of informatics solutions to diagnose cases and the use of CTSA-supported core resources (e.g., advanced scientific instruments, highly-specialized facilities, and regulatory expertise) to facilitate research on COVID-19 and advance the translation of research findings into diagnostics, therapeutics, and vaccines. NCATS is soliciting applications for Administrative Supplements to UL1, U01, and R21 awards (through PA-18-591), Collaborative Innovation Awards to U01 and R21 awards (through PAR-19-099 and PAR-19-100, respectively), and Competitive Revisions for UL1 awards for each of the non-administrative supplement awards (through PAR-19-337).",https://grants.nih.gov/grants/guide/notice-files/NOT-TR-20-011.html,Technology and Computer Science
+Virginia Tech,NIH - National Center for Complementary and Integrative Health (NCCIH),,"Applications will be accepted on a rolling basis through October 06, 2020.
+National Center for Complementary and Integrative Health (NCCIH): is issuing this Notice of Special Interest (NOSI) to highlight the urgent need for research on the 2019 Novel Coronavirus (2019-nCoV, also known as COVID-19). Topics of specific interest for this NOSI include research on stress management strategies, including mind and body approaches, that individuals may engage in remotely to address stressors related to social distancing, as well as to address recovery and recurrence of symptoms during and after COVID-19 infections. To better understand the impact of stress management strategies in the context of the COVID-19 pandemic, NCCIH is encouraging the submission of applications for Administrative Supplements or Competitive Revisions to active grants. Applicants should propose research that can be completed remotely, without any in-person contact between study staff and research participants. Interventions proposed for study should already be fully developed and ready for immediate testing. For the areas of research interest please see notice.",https://grants.nih.gov/grants/guide/notice-files/not-at-20-011.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Allergy and Infectious Diseases (NIAID),,Support the use of Collaborative Cross (CC) mouse lines to advance understanding of the host genetics involved in immune regulation and function and to further develop CC mouse lines that more faithfully reproduce human immune responses.,https://grants.nih.gov/grants/guide/pa-files/PAR-18-781.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Allergy and Infectious Diseases (NIAID),,"Applications will be accepted on a rolling basis, beginning on 04/30/2020.
+The purpose of this Funding Opportunity Announcement (FOA) is to provide an expedited funding mechanism for research on Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) and/or Coronavirus Disease 2019 (COVID-19). NIAID is issuing this FOA in response to the declared public health emergency issued by the Secretary, HHS, for 2019 Novel Coronavirus (COVID-19). See guidelines for areas of high priority.",https://grants.nih.gov/grants/guide/pa-files/PAR-20-177.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Allergy and Infectious Diseases (NIAID),,"Applications will be accepted on a rolling basis 07/02/2020 to 07/02/2021.
+National Institute of Allergy and Infectious Diseases (NIAID) is issuing this Notice of Special Interest (NOSI) to highlight very specific and limited needs for Competitive Revision applications (PA-20-135) to active NIAID grants in order to further build the infrastructure that NIAID needs to support the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) and Coronavirus Disease 2019 (COVID-19) research response. This NOSI replaces NOT-AI-20-034 which was rescinded with this issuance of this Notice. See guidelines for research objectives.",https://grants.nih.gov/grants/guide/notice-files/NOT-AI-20-059.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Biomedical Imaging and Bioengineering (NIBIB),,"Applications will be accepted on a rolling basis through March 30, 2021.
+The National Institute of Biomedical Imaging and Bioengineering (NIBIB) is issuing this Notice of Special Interest (NOSI) to highlight the urgent need for accelerating the development, translation, and commercialization of technologies to address Coronavirus Disease 2019 (COVID-19). The NIBIB is seeking applications from current grantees to develop life-saving technologies that can be ready for commercialization within one to two years. Please see notice for examples of technologies. R01 - PA-19-056 - NIH Research Project Grant (Parent R01 Clinical Trial Not Allowed) - 1st Due Date - June 5, 2020 R01 - PA-18-418 - NIBIB Research Project Grant (R01 Clinical Trial Required) - 1st Due Date - June 5, 2020 R01 - PAR-18-530 - Academic-Industrial Partnerships for Translation of Technologies for Diagnosis &Treatment (R01-Clinical Trial Optional) - 1st Due Date - June 5, 2020 R01 - PAR-20-155 - Academic-Industrial Partnerships (AIP) to Translate and Validate In Vivo Imaging Systems (R01 Clinical Trial Optional) - 1st Due Date - June 5, 2020 R21 - PAR-20-084 - NIBIB Trailblazer Award for New and Early Stage Investigators (R21 Clinical Trial Optional) - 1st Due Date - June 16, 2020 R21 - PAR-18-433 - NIBIB Exploratory/Developmental Research Grant Program (R21 Clinical Trial Optional) - 1st Due Date - June 16, 2020 R03 - PA-19-052 - NIH Small Research Grant Program (Parent R03 Clinical Trial Not Allowed) - 1st Due Date - June 16, 2020",https://grants.nih.gov/grants/guide/notice-files/not-eb-20-007.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Environmental Health Sciences (NIEHS),,"Applications will be accepted on a rolling basis through May 4, 2021.
+National Institute of Environmental Health Sciences (NIEHS) seeks to promote rapid understanding of the potential contributions of current and past exposure to environmental agents that may exacerbate COVID-19 susceptibility, disease severity, and progression. Examples of environmental exposures relevant to the NIEHS mission include: toxic chemicals, air pollutants, second hand tobacco smoke, e-cigarette vapors, metals, and other environmental chemical exposures that may impact health outcomes. In addition, some health outcomes that are linked to environmental exposures (asthma, diabetes, and other pulmonary, cardiovascular, and metabolic diseases) are also risk factors for COVID-19. NIEHS is accepting applications addressing COVID-19 through the administrative supplement (PA-18-591), urgent competitive revision (PA-18-935), and time-sensitive mechanisms (RFA-ES-19-011).",https://grants.nih.gov/grants/guide/notice-files/not-es-20-020.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Health,,"Call for prototypes for testing and clinical review. This website accepts designs that are created to support the manufacturing of personal protective equipment (PPE) or other necessary medical devices that are in short supply due to the COVID-19 outbreak. While many can be printed with a 3D printer at home or your local Maker space, the National Institute of Health (NIH), Food and Drug Administration (FDA), Veterans Affairs (VA), America Makes, and the contributing creators cannot ensure the quality, safety, and efficacy of these designs when manufactured without proper quality controls and processes. This collection represents a coordinated effort among the FDA, VA, and America Makes to connect healthcare providers and 3D printing organizations.",https://3dprint.nih.gov/collections/covid-19-response,Other
+Virginia Tech,NIH - National Institute of Health,,"Applicant organizations may submit more than one application, provided that each application is scientifically distinct.
+The NIH Director's Transformative Research Award Program supports collaborative investigative teams or individual scientists who propose unusually innovative research projects. For this FOA, the project should have the potential to have a broad impact on SARS-Cov-2 prevention, preparation, or response. To be considered transformative, projects must have the potential to create or overturn fundamental scientific paradigms through novel concepts or perspectives, transform the way research is conducted through the development of novel tools or technologies, or lead to major improvements through the development of highly innovative diagnostic, therapeutic, or preventive strategies. Consistent with this focus, Transformative Research Award applications should propose research substantially different from current mainstream research.",https://grants.nih.gov/grants/guide/rfa-files/RFA-RM-20-020.html,Other
+Virginia Tech,NIH - National Institute of Health - Muliple divisions,,"This FOA has multiple due dates: August 20, 2020, December 2, 2020, March 2, 2021
+This Funding Opportunity Announcement (FOA) aims to support research to strengthen the healthcare response to Coronavirus Disease 2019 (COVID-19) caused by the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) and future public health emergencies, including pandemics. While research related to the direct clinical effects of COVID-19 are supported by other funding opportunities, the purpose of this funding opportunity is to focus on the role and impact of digital health interventions [e.g., mobile health (mhealth), telemedicine and telehealth, health information technology (IT), and wearable devices] to address access, reach, delivery, effectiveness, scalability and sustainability of health assessments and interventions for secondary effects (e.g., behavioral health or self-management of chronic conditions) that are utilized during and following the pandemic, particularly in populations who experience health disparities and vulnerable populations.",https://grants.nih.gov/grants/guide/pa-files/PAR-20-243.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Health - Muliple divisions,,"The letter of intent due date is September 04, 2020. The first standard due date for this FOA is October 5, 2020.
+The purpose of this Funding Opportunity Announcement (FOA) is to support investigative and collaborative research focused on understanding the long-term effects of natural and/or human-made disasters on health care systems serving health disparity populations in communities in the U.S., including the U.S. territories. NIH-designated health disparity populations include racial and ethnic minorities (Blacks/African Americans, Hispanics/Latinos, American Indians/Alaska Natives, Asians, Native Hawaiians and other Pacific Islanders), sexual and gender minorities, socioeconomically disadvantaged populations, and underserved rural populations.",https://grants.nih.gov/grants/guide/pa-files/PA-20-172.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Health - Muliple divisions,,"Applications may be submitted July 13, 2020, November 12, 2020, March 12, 2021, and July 12, 2021.
+NIH is issuing this Notice of Special Interest (NOSI) to highlight the urgent need for research on Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) and Coronavirus Disease 2019 (COVID-19) in individuals with Down syndrome in conjunction with the INCLUDE (INvestigation of Co-occurring conditions across the Lifespan to Understand Down syndromE) Project. Because many people with Down syndrome are at increased risk of having co-occurring medical conditions, such as pulmonary disease, cardiac problems, obesity, diabetes, sleep apnea, and altered immune function that may predispose them to more severe infection with SARS-CoV-2, they may be particularly vulnerable to COVID-19 complications. Combined with shared living situations, and reduced access to testing and treatment services due to disparities in provision of resources, the impact of COVID-19 infection in people with Down syndrome is likely to be elevated. The overarching goal of this NOSI is to improve understanding and treatment of COVID-19 infection in individuals with Down syndrome and reduce COVID-19 associated morbidity and mortality for this population, which may be disproportionately affected by, have higher infection rates of, and/or be at elevated risk for adverse outcomes from contracting the virus.",https://grants.nih.gov/grants/guide/notice-files/not-od-20-129.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Health - Muliple divisions,,"Applications will be accepted on a rolling basis from June 10, 2020 through December 15, 2020.
+The COVID-19 pandemic and its associated mitigation strategies are expected to have significant psychosocial, behavioral, and socioeconomic impacts on health, which are exacerbated in populations that experience health disparities and other vulnerable groups, leading to disproportionately adverse consequences. Those experiencing health disparities prior to the COVID-19 pandemic are at increased risk of infection and other COVID-19 related consequences (e.g., job loss, unpaid leave, lost wages). Research is needed to test community interventions focused on the prevention (or slowing) of COVID-19 transmission, evaluate local and state policies and programs intended to mitigate COVID-19 exposure and improve adherence, and reduce the negative impact of the multifaceted consequences on the health of populations who experience health disparities and other vulnerable groups. This work may includeleveraging and scaling existing resources (e.g., health education materials, technology, social media, mass media, social support networks, social services). In domains and populations in which the evidence base is limited, the development, testing, and implementation of novel or adapted interventions to address the negative health consequences of the COVID-19 pandemic (including the unintended health consequences of population-level interventions) may also be needed to address the unique needs of populations. See guidelines for research objectives.",https://grants.nih.gov/grants/guide/notice-files/not-md-20-022.html,Other
+Virginia Tech,NIH - National Institute of Health - Muliple divisions,,"Applications will be accepted on a rolling basis from June 10, 2020 through December 15, 2020.
+This Notice of Special Interest (NOSI) highlights interest in research to strengthen the healthcare response to Coronavirus Disease 2019 (COVID-19) caused by the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) and to future public health emergencies, including pandemics. While the direct clinical effects of COVID-19 are supported by other funding opportunities, the purpose of this NOSI is to support research to address secondary health effects of the social, behavioral, and economic changes, particularly among populations who experience health disparities and vulnerable populations through the use of digital health assessments and interventions to yield measurable near-term impact. In order to significantly improve near term impact of treatment and identification of individuals at risk for, or experiencing worsening health secondary to the COVID-19 pandemic across the full lifespan, supplements will focus particularly on NIH-designated health disparity (racial/ethnic minorities, less privileged socioeconomic status, rural residents and sexual and gender minorities) and other populations with medical or social vulnerabilities. The latter include residents of chronic care facilities, community-dwelling older adults, pregnant women, children, individuals with cognitive impairment or dementia, homeless, and those incarcerated or involved with the criminal justice system, individuals with substance use disorder or severe mental illness, those who are deaf or with visual, hearing, communication, or mobility impairment, and uninsured individuals. See guidelines for research objectives.",https://grants.nih.gov/grants/guide/notice-files/not-mh-20-053.html,Other
+Virginia Tech,NIH - National Institute of Health - Muliple divisions,,"Applications may be submitted beginning on July 8, 2020 for the Application Due Date on August 7, 2020.
+This Notice of Special Interest (NOSI) highlights the urgent need to understand and address COVID-19 morbidity and mortality disparities among underserved and vulnerable populations across the United States. These two-year community-engaged Testing Research Projects will examine SARS-CoV-2 infection patterns and efforts to increase access and effectiveness of diagnostic methods through the Rapid Acceleration of Diagnostics for Underserved Populations (RADx-UP) initiative. The overarching goal is to understand factors that have led to disproportionate burden of the pandemic on these underserved populations so that interventions can be implemented to decrease these disparities.",https://grants.nih.gov/grants/guide/notice-files/NOT-OD-20-121.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute of Health - Muliple divisions,,"There are various due dates for the different award types. Check the solicitation for specific due dates.
+The National Institutes of Health (NIH) hereby notify Principal Investigators holding specific types of NIH research grants, listed in the full Funding Opportunity Announcement (FOA) that funds may be available for competitive revisions to meet immediate needs to help address a specific public health crisis in a timely manner, but that were unforeseen when the new or renewal application or grant progress report for non-competing continuation support was submitted. Applications for Urgent Competitive Revisions will be routed directly to the NIH awarding component listed on the NoA of the most recent parent award.",https://grants.nih.gov/grants/guide/pa-files/PA-18-935.html,Technology and Computer Science
+Virginia Tech,NIH - National Institute on Deafness and Other Communication Disorders (NIDCD),,"This notice applies to due dates on or after October 5, 2020 and subsequent receipt dates through September 8, 2022.
+Coronavirus Disease 2019 (COVID-19) is a recently emerged human disease caused by the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). There is a paucity of data on the impact of SARS-CoV-2 on the sensory and communicative functions within the scientific mission areas of NIDCD. NIDCD invites applications for research on COVID-19 in relation to NIDCD’s scientific programs of hearing, balance, taste, smell, voice, speech and language (HBTSVSL). Given the early stage of COVID-19 research, it is critical that there is a strong premise for research proposals submitted in response to this NOSI. When appropriate, NIDCD encourages multi-disciplinary approaches to move the research beyond in vitro and animal models. See guidelines for areas of research.",https://grants.nih.gov/grants/guide/notice-files/not-dc-20-008.html,Technology and Computer Science
+Virginia Tech,"NIH - Office of The Director, National Institutes of Health (OD)",,"Estimated Publication Date of Funding Opportunity Announcement: July 17-31, 2020; First Estimated Application Due Date: September 2020
+The purpose of this Notice is to alert the community that NIH plans to publish multiple Funding Opportunity Announcements (FOAs) as part of the Rapid Acceleration of Diagnostics - Radical (RADx-rad) initiative to support new, non-traditional approaches and new or non-traditional applications of existing approaches addressing current gaps in COVID-19 testing. The FOAs are expected to be published throughout July, and we will accept applications September 2020 for FY21 funding. The FOAs will be Requests for Applications (RFAs) for various grant mechanisms and Notices of Special Interest (NOSIs) for competitive revisions. The goal is to make awards by December 2020. This Notice is being provided to allow potential applicants additional time to develop responsive applications.",https://grants.nih.gov/grants/guide/notice-files/NOT-OD-20-144.html,Technology and Computer Science
+Virginia Tech,National Science Foundation (NSF),,"With this Dear Colleague Letter (DCL), we highlight the interest of existing programs in the Directorate for Biological Sciences (BIO) and the Directorate for Engineering (ENG) in interdisciplinary research for the development of novel biological platforms that are capable of sensing and responding to emerging infectious agents. The mechanism of sensing should be adaptable and or evolvable such that the sentinel cells, or other appropriate biotechnology solutions, are robust to a range of emergent threats, and/or can easily be reprogrammed and deployed once a new threat is identified. The platform's response should be one or more of the following: alert the user, destroy the threat, protect the host, initiate an immune response or other strategies that would ensure mitigation of the threat. Sentinel cells and organisms that detect and respond to infectious agents with expanding footprints in a host population or expanding host ranges are of particular interest, as the early detection of these infectious agents might have value in preventing future pandemics. In addition, fundamental science and technology that would lead to the development of the envisioned sentinel cells and organisms are also of interest. Investigators are encouraged not to be limited in their approach, but to think broadly about innovations leveraging biology and engineering to advance adaptable detection of emerging biological threats.",https://www.nsf.gov/pubs/2020/nsf20105/nsf20105.jsp,Other
+Virginia Tech,National Science Foundation (NSF),,"With this Dear Colleague Letter (DCL), the National Science Foundation (NSF) wishes to notify the community that research projects focused on pandemics are considered appropriate for the Civic Innovation Challenge (CIVIC; NSF 20-562), a research and action competition in the smart and connected communities (S&CC) domain. CIVIC is organized as a two-stage competition with two tracks. One track is centered onresilience to natural disasters and calls for research that equips communities with greater preparedness and resilience to natural disasters. The other track is centered on communities and mobility and calls for research that addresses better mobility options to solve the spatial mismatch between housing affordability and jobs, as well as associated mobility solutions thatcan increase access to critical services and amenities that foster healthy and thriving communities. While CIVIC was planned long in advance of the novel coronavirus 2019 (COVID-19) outbreak, today the world is focused on this pandemic. Given this reality, NSF is notifying the community of its interest in pandemics as an example of a disaster pursuant to the resilience track or as a possible consideration in framing the focus of the mobility track.",https://www.nsf.gov/pubs/2020/nsf20100/nsf20100.pdf,Technology and Computer Science
+Virginia Tech,National Science Foundation (NSF) - Binational Science Foundation (BSF),,"These programs have no deadline; applications are welcomed until further notice. Israeli PIs must submit their proposal to the BSF within seven days after the U.S. PI submits to the NSF.
+Call for Proposals in Joint NSF-BSF Programs Dealing with the Coronavirus Disease. The U.S.-Israel Binational Science Foundation (BSF) is accepting applications dealing with the Coronavirus Disease in all the active NSF-BSF programs.",https://www.bsf.org.il/funding-opportunities/nsf-bsf-joint-research-grants/the-programs/,Biomedical
+Virginia Tech,Robert Wood Johnson Foundation,,"The submission deadline is August 05, 2020 at 3:00 pm ET. One page letter of intent is due 7/20/2020.
+The need to identify successful system alignment strategies has become increasingly urgent in the wake of the SARS-CoV-2 virus pandemic that causes COVID-19. This pandemic places people with unmet health and social needs at heightened risk of infection and complications, while propagating unmet needs through job losses, school and business closures, occupational risks, and social distancing policies. This call for proposals (CFP) will provide supplemental research funding to teams that are already engaged in the study of a promising system alignment mechanism, with the objective of learning how this mechanism performs in addressing health and social needs during the COVID-19 pandemic. Eligible teams must have an active or recently completed research study (within 12 months of application submission) that can be extended through the use of supplemental research funding. This CFP is appropriate for studying an existing system alignment mechanism implemented prior to the arrival of the COVID-19 pandemic, and about which some pre-COVID evidence has already been created by the applicant. Studies funded through the S4A program must test a specific system alignment mechanism that engages all three of the sectors referenced in this call—medical care, public health, and social services.",https://www.rwjf.org/content/rwjf/en/library/funding-opportunities/2020/systems-for-action-supplemental-research-on-covid19-response-and-recovery.html?rid=0034400001rm31WAAQ&et_cid=2134003,Technology and Computer Science
+Virginia Tech,Social Science Research Council (SSRC),,"The Social Science Research Council (SSRC), as part of its Just Tech program, seeks proposals from across the social sciences and related fields that address the risks, opportunities, and challenges posed by public health surveillance stemming from the Covid-19 pandemic. We specifically encourage proposals that interrogate the role the public and private sectors may play in mitigating or exacerbating the health crisis, the effects of which are already unevenly distributed.",https://covid19research.ssrc.org/rapid-response-grants-on-covid-19-and-the-social-sciences/,Technology and Computer Science
+UT Austin,Catherine (Kate) Calder,Department of Statistics and Data Sciences,"Professor
+Dr. Calder is generating systematic information on
+differences in social distancing across social groups by
+income, race/ethnicity and residential neighborhood. She
+is also investigating why these differences exist. This
+study, supported by the National Science Foundation
+through a RAPID grant, will assist epidemiologists
+modeling disease spread by providing realistic
+assumptions regarding social distancing practices across
+the population.",calder@austin.utexas.edu,Technology and Computer Science
+UT Austin,Can Cenik,Department of Molecular Biosciences,"Assistant Professor
+Dr. Cenik is an expert on translation control and has recently
+developed a rapid assay that enables the measurement of
+translation activity in a wide range of systems. His collaborator at
+the University of Toronto, Prof. Fritz Roth, has generated
+expression constructs of viral genes (NSP1, NSP2 and N) derived
+from SARS-CoV-2 isolate Wuhan-Hu-1. Dr. Cenik will leverage these
+resources along with his novel standardized assay for assessing
+translation activity of host cells in presence of viral proteins. This
+study may help to better understand the mechanism of
+pathogenicity of SARS- CoV-2 virus, in particular, and will help
+evaluate proposed drug targets for SARS-CoV2.",ccenik@austin.utexas.edu,Technology and Computer Science
+UT Austin,Frances Champagne,Department of Psychology,"Professor Dr. Champagne's lab examines the impact of environments
+on the brain and behavior and the consequences of these
+effects for health. She is currently chair of the Bridging
+Barriers Initiative: Whole Communities - Whole Health and is
+integrating cutting edge technology with biomarkers of
+stress to better understand the impact of the COVID-19
+pandemic. She is currently conducting a study in human
+subjects that is analyzing sleep patterns, activity levels,
+environmental quality via home sensor data, hair cortisol
+and epigenetics to determine factors that predict risk andresilience.",fchampagne@utexas.edu,Other
+UT Austin,Zhengrong Cui,College of Pharmacy,"Professor
+Dr. Cui will use his proprietary technology to develop
+aerosolizable dry powder of i) a plasmid from a
+sponsor showing activity against SARS-CoV-2 and ii)
+two small molecules that are known to interrupt RNA
+virus replication for potential prevention or treatment
+of COVID-19.",zhengrong.cui@austin.utexas.edu,Technology and Computer Science
+UT Austin,Kevin Dalby,College of Pharmacy,"Dr. Dalby recently developed a lead therapeutic (and several
+Professor
+derivatives) and screened it against the whole protein kinome. He
+found that it targets three protein kinases (AAK1, Abl, and JAK) with
+high selectivity and sub-nanomolar potency. The compound is a
+derivative of the FDA-approved drug Nintedanib. Through his
+studies, UT Austin holds a patent on this compound and derivatives.
+He is currently investigating its activity in a range of mammalian cells
+to further validate its potency towards the three kinases. In several
+weeks, he will be in a position to assess the ability of this inhibitor
+and derivatives on host cell entry by COVID-19 using replication-
+defective VSV particles bearing coronavirus S proteins (Hoffmann, M.
+et al.). He has approximately 0.5 g of material already made to beginpre-clinical in vivo studies.",dalby@austin.utexas.edu,Technology and Computer Science
+UT Austin,Bryan Davies,Department of Molecular Biosciences,"Associate Professor Dr. Davies aims to understand the molecular mechanisms used by
+pathogenic bacteria to cause disease and to exploit this knowledge for the
+development of new preventative and therapeutic options. He is starting
+COVID-19 research in collaboration with UT and Dell Medical School. His
+antibody libraries will be used to identify inhibitors that will prevent infection
+by the coronavirus and additional viruses using related infections routes
+including flu, ebola, and related SARs viruses. He is developing a suite of
+immune based therapies that target a host protein that will prevent the
+current circulating virus and many other related viruses from infecting human
+cells. His treatments will be useful for the immediate circulating coronoavirus
+and against mutated forms that may arise during the current pandemic or
+resurface in the next season.",bwdavies@utexas.edu,Other
+UT Austin,Jaquelin Dudley,Department of Molecular Biosciences and Department of Oncology,"Professor
+Dr. Dudley has been studying viruses, primarily retroviruses, since
+1973. She has been teaching about animal viruses since 1983, has
+served on NIH review panels on the pathogenesis of viruses, and is
+the Associate Director of the LaMontagne Center for Infectious
+Disease. Drs. Dudley and Shelley Payne are co-PIs on a grant to
+identify Zika virus in biological samples. This project will be expanded
+to include coronavirus detection, since the methods will be the
+same. They will obtain inactivated coronovirus from the American
+Type Culture Collection (ATCC), and it will be added to control
+samples of blood, feces and urine to determine the sensitivity of
+detection.  ",jdudley@austin.utexas.edu,Technology and Computer Science
+UT Austin,Livia Eberlin,Department of Chemistry,"Assistant Professor
+Dr. Eberlin is refining design of the MasSpec Pen (invented by
+Eberlin) as a probe that could be inserted into the nose or throat for
+immediate analysis/diagnosis of COVID-19. She has been discussing
+with collaborators at the Texas Medical Center in Houston (oncology
+MDs who are now assisting with COVID-19 efforts) how they could
+potentially use the MasSpec Pen technology to rapidly identify
+coronavirus directly from nasal or throat swab samples based on the
+detection of small molecules that are highly specific to the virus with
+mass spectrometry, in a similar fashion to experiments that Dr.
+Eberlin pursues with bacteria in her lab.",liviase@utexas.edu,Technology and Computer Science
+UT Austin,Lauren Ehrlich,Department of Molecular Biosciences and Department of Oncology,"Associate Professor
+Dr. Ehrlich is an immunologist, with particular expertise in T
+cell biology. Her lab studies the cellular and molecular
+interactions of T cells with heterogeneous cells in complex
+tissue microenvironments that alter T cell development and
+responses. Of note, they are investigating mechanisms
+underlying the age-associated decline in T cell output and
+function, which likely relates to the increased susceptibility
+to coronavirus in aged individuals.",lehrlich@austin.utexas.edu,Other
+UT Austin,Andrew Ellington,Department of Molecular Biosciences,"Professor Dr. Ellington's research involves development of diagnostic assays
+(underway), antibodies (underway), and last-resort vaccine alternatives.
+His lab conducts research in synthetic biology, protein engineering, and
+DNA nanotechnology.
+ 
+In a recently funded NSF RAPID project, Dr. Ellington and Fabrico
+Technology Inc. are developing a complete and rapid point-of-care
+detection system for the SARS-CoV-2 virus. The system provides accurate
+detection of the virus in a test format that can be performed in both
+clinical and field settings. The modular design preserves rapid assay
+programability for navigating both biological and logistical constraintss u c h   a s   e v o l v i n g   v i r a l   g e n o m e s   a n d   l o w   r e s o u r c e   f i e l d   d e p l o y m e n t .",ellingtonlab@gmail.com,Biomedical
+UT Austin,Kasey Faust,"Department of Civil, Architectural, and Environmental Engineering","Assistant Professor
+Dr. Faust’s work focuses on human-infrastructure interactions, 
+infrastructure interdependencies, and water sector infrastructure.
+Her research on sociotechnical systems aims to improve service to 
+communities. She received an NSF RAPID grant to examine the
+impact of social distancing on water infrastructure system
+performance during phased reopenings. ",faustk@utexas.edu,Other
+UT Austin,Ilya Finkelstein,Department of Molecular Biosciences,"Associate Professor Dr. Finkelstein's immediate objective is to ramp up
+mammalian and P. pastoris cell expression and biochemical
+purification of the COVID-19 spike protein and receptor-
+binding domain (RBD). He will be cloning, expressing, and
+testing 60+ variants for improved yield and biophysical
+stability. Spike protein and RBD truncations will be shipped
+to academic and commercial labs for immediate serological
+assay development. All efforts are in collaboration with Dr.
+Jason McLellan’s lab. Dr. Finkelstein will be helping the
+McLellan lab screen mAb-spike protein co-structures vianegative stain- and cryo-EM.",ifinkelstein@cm.utexas.edu,Technology and Computer Science
+UT Austin,Ken Fleischmann,School of Information,"Professor
+Dr. Fleischmann is interested in information sharing in crisis
+situations, supply chains for medical supplies, and sharing
+information about access to consumers. He recently received an
+NSF RAPID grant to study trust in public health information
+during the COVID-19 pandemic.",kfleisch@ischool.utexas.edu,Other
+UT Austin,George Georgiou,Department of Chemical Engineering,"Professor
+Dr. Georgiou and his group will determine the adaptive
+immune responses -- e.g., circulating antibodies, B cells and T
+cells -- in convalescent patients using technologies developed by
+our labs at UT Austin. This work will seek to define the antibody
+and cellular immune responses elicited by SARS-CoV 2 and how
+they may affect disease progression. These studies capitalize on
+technologies invented by his group and are expected to provide
+unique insights into immunological responses to infection.
+Importantly, the work will also help the identification of
+protective antibodies to SARS-CoV-2.",gg@che.utexas.edu,Technology and Computer Science
+UT Austin,Debadyuti (Rana) Ghosh,College of Pharmacy,"Assistant Professor Dr. Ghosh is collaborating with Dr. Manish Kumar and his lab in
+Environmental Engineering to evaluate the ability of surfaces
+molecularly functionalized with a plant derived antimicrobial
+peptide to stop transmission of 2019-nCoV (i.e. the coronavirus
+associated with COVID-19) using their T7 bacteriophages as model
+systems that display the spike protein of 2019-nCoV. His
+recombinant phages will serve as surrogates to test the efficacy of
+these functionalized surfaces. He is at the initial phase of the work
+to test his non-recombinant phages against functionalized surfaces;
+this work will take 6-12 months. He is a Co-PI on an NSF RAPIDgrant supporting this work along with Dr. Kumar.",dghosh@austin.utexas.edu,Technology and Computer Science
+UT Austin,Jimmy Gollihar,Department of Molecular Biosciences,"Research Scientist
+Dr. Gollihar is the DoD’s Chief Technology Officer of the
+Bioindustrial Manufacturing Innovation Institute. He also serves
+as the Biological Foundry and Synthetic Biology Lead at the U.S.
+Army Research Laboratory--South where he works on
+developing automated, high-throughput organism engineering
+and biological countermeasure platforms. His research focuses
+on the intersection of synthetic, systems, and computational
+biology. He is also the molecular tools lead of the TRANSFORMEResearch Program at  the U.S. Army Combatj i m m y . d . g o l l i h a r 2 . c i v @ m a i l . m i l   C a p a b i l i t i e s   D e v e l o p m e n t   C o m m a n d   A r m y   R e s e a r c h   L a b o r a t o r y .",Essential,Technology and Computer Science
+UT Austin,Matthew Hall,Department of Mechanical Engineering,"Professor Dr. Hall is working with the Austin Fire Department to apply ozone
+sterilization to PPE masks (along with Drs. Chris Rylander and Nichole
+Rylander). Dr. Hall will perform measurements of pressure drop across the
+mask before and following ozone sterilization to determine mask intergrity
+and safety for reuse. We have a plan to check the masks for changes in
+pressure drop with use, as an indication of degradation of the filtering
+media. The three PIs have also initiated a new research collaboration to
+use a novel diesel engine approach for sterilization of indoor air containing
+aerosolized pathogens including COVID-19. This approach will employ a
+readily available system to impose high temperatures for short durations
+to incinerate COVID-19 thereby inactivating the virus-laden air and
+preventing disease spread.",mjhall@mail.utexas.edu,Technology and Computer Science
+UT Austin,Lea Hildebrandt Ruiz,Department of Chemical Engineering,"Dr. Hildebrandt Ruiz will quantify inhalation of disinfection byproducts during
+Assistant Professor
+and following disinfection while wearing different classes of masks. She
+expects that some masks decrease inhalation exposure to disinfection
+byproducts, while others may increase exposure via adsorption of cleaning
+product vapors to the mask and by addition of moisture due to exhalation.
+These processes lead to a mask chemistry that produces additional chemical
+products whose concentration is much greater on the mask than in the
+ambient air, and the secondary products formed are potentially more
+harmful than the primary vapors of cleaning products. The study will identify
+risks for different types of masks and cleaning products and make
+recommendations on how often to change the masks or mask components
+during disinfection. She has received NSF RAPID funding to pursue this work,collaborating with Drs. Atila Novaselac and Pawel Misztal.",lhr@che.utexas.edu,Other
+UT Austin,Parker Hudson,"Department of Medicine, Dell Medical School","Assistant Professor of Infectious Diseases
+Dr. Hudson has clinical expertise in infectious diseases and an
+MPH in epidemiology where he focused on HIV prevention and
+treatment resistance. He practices infectious diseases at David
+Powell HIV clinic and Dell Seton Medical center, and he is the
+program director for the Internal Medicine Residency program
+at Dell Medical School. He has been involved in COVID-19
+preparation and education for our health system.",parker.hudson@austin.utexas.edu,Other
+UT Austin,Jon Huibregtse,Department of Molecular Biosciences,"Professor Dr. Huibregtse submitted a manuscript to Molecular Cell, showing that the SARS-CoV-
+2/COVID-19 virus encodes a protease that counteracts the activity of the cellular
+ISG15 anti-viral protein. This result establishes the viral protease (PLpro) as a drug
+target for antiviral therapy. Further, the Mol. Cell paper proposes that a consequence
+of PLpro de-ISGylase activity is the stimulation of a pro-inflammatory ""cytokine storm"".
+COVID-19 patients die largely as a result of cytokine storms, and his results suggest a
+clear route toward inhibiting the cytokine storm that is initiated as a result of PLpro
+activity. Further, following submission of the Mol. Cell paper, he identified an FDA-
+approved drug that inhibits the SARS-CoV-2 PLpro protease. The molecule blocks its
+ability to act on ISG15 conjugates and we have strong preliminary evidence that this
+will also block pro-inflammatory cytokine responses. This is a key finding, as it
+suggests that the off-label use of an approved drug may directly impact patients
+during the current crisis, if deployed rapidly.",huibregtse@austin.utexas.edu,Technology and Computer Science
+UT Austin,Tanya Hutter,Department of Mechanical Engineering,"Assistant Professor Dr. Hutter is working with Dr. Sapun Parekh to develop a rapid method of
+SARS-CoV-2 detection in saliva combining a nanoporous material and simple
+optical (reflectivity) measurement. Rapid and accurate detection of SARS-CoV-
+2, the pathogen that causes COVID-19, is crucial in controlling the outbreak
+within the community and in hospitals and is still a major bottleneck in nearly
+every city in the US. The use of saliva has several important advantages; it is
+easily accessible, will allow testing without the need for a medical provider,
+and will permit specimen collection outside the hospitals such as in outpatient
+clinics or in the community. Moreover, detection of the pathogen in
+wastewater is attractive for similar reasons. Monitoring wastewater can help
+fill in the gap of measuring how prevalent the virus is in a given community –
+data that is useful in modeling the pandemic propagation and futureo u t b r e a k s .",tanya.hutter@utexas.edu,Technology and Computer Science
+UT Austin,Gregory Ippolito,Department of Molecular Biosciences and Department of Oncology,"Research Assistant Professor
+Dr. Ippolito in collaboration with Drs. Jason Lavinder, Jason McLellan,
+Jimmy Gollihar and George Georgiou have begun antibody
+experiments on COVID-19+(positive) blood specimens and now have
+preliminary data. This project launched March 21, 2020, and has
+enrolled and collected blood specimens from confirmed COVID-19+
+ATX study subjects that experienced mild disease, as of March 30th
+(study approved for up to N=20). His team is recruiting asymptomatic
+patients and also patients with clinically severe disease. The work is
+collaborative and includes the CDC, Albert Einstein College of Medicine,
+and Houston Methodist Hospital.",gci@utexas.edu,Technology and Computer Science
+UT Austin,Brent Iverson,Department of Chemistry,"Dr. Iverson will be using his patented YESS technology to carry out the first
+Professor
+complete substrate profile of the main protease of SARS-CoV-2 and to carry out a
+similar analysis of the human protease (TMPRSS2) responsible for priming the
+SARS-CoV-2 S protein during the initial phases of infection. The goal would be to
+identify a highly active specific substrate that could aid in rational drug design or
+high throughput drug screening (inhibiting this protease would effectively treat
+COVID-19). He hopes to develop a highly sensitive substrate that could be used as
+a rapid diagnostic. In an attempt to produce a catalytic therapeutic, Dr. Iverson will
+use his YESS technology to engineer a human protease that can cleave the
+recognition sequence of the SARS-CoV-2 spike protein. YESS is the most effective
+protease engineering platform known. He believes that a human protease
+engineered to specifically cleave the recognition sequence of the SARS-CoV-2 spikeprotein would be able to stop the spread of the virus in a patient in immediate andc a t a l y t i c   f a s h i o n .",iversonb@austin.utexas.edu,Technology and Computer Science
+UT Austin,Ning (Jenny) Jiang,Department of Biomedical Engineering,"Associate Professor
+Dr. Jiang is interested in two aims: Aim 1 is to assess the antigenic epitope
+coverage of SARS-COV-2, the virus causing COVID-19, in
+healthy blood donors’ T cells (blood samples used are previously banked
+before March 13th); Aim 2 is to identify antigen-specific B cells that bind
+specifically to SARS-COV-2 proteins but no other cold inducing coronavirus,
+which could be developed into antibody based therapeutics.",jiang@austin.utexas.edu,Technology and Computer Science
+UT Austin,Ken Johnson,Department of Molecular Biosciences,"Dr. Johnson's research is focused on the examination of DNA and RNA
+Professor
+polymerases involved in the treatment of viral infections, and mechanisms
+for force production by molecular motors. He started work on the SARS-
+Cov2 coronavirus RdRp (RNA dependent RNA polymerase). He also has the
+world's supply of sofosbuvir in its triphosphate form provided by Gilead.
+This is the drug used to treat the related Hepatitis C by inhibiting its RdRp,
+which is related to the coronavirus polymerase. He has a paper under
+revision on why sofosbuvir is effective in treating HCV, while other similar
+nucleoside analogs fail. He expects that he can quickly determine the same
+information for SARS-Cov2 and to test other analogs that may be available
+for treatment. His enzyme assays are well established in his lab. These
+assays provide much faster turnaround to determine possible effectivenessof drugs to inhibit coronavirus replication.",kajohnson@mail.utexas.edu,Technology and Computer Science
+UT Austin,Christine Julien,Department of Electrical and Computer Engineering,"Professor
+Dr. Julien is developing a contact tracing application using
+Bluetooth for iOS and Android. This app could be used to
+allow detection of coronavirus exposure based on proximity
+beacons.",c.julien@utexas.edu,Biomedical
+UT Austin,Michael Krische,Department of Chemistry,"Professor
+Dr. Krische and his research team specializes in the synthesis of
+polyketide natural products, and their ongoing research into the
+development of catalytic C-C bond forming reactions should provide
+us with the capability of preparing useful quantities of mycalamide so
+that its therapeutic potential vis-à-vis COVID-19 can be evaluated. The
+polyketide natural product, mycalamide, which was isolated from a
+marine sponge of the coast of New Zealand, displays potent anti-
+COVID-19 activity in mouse models. Remarkably, mycalamide is active
+at a concentration of 1–2ng/disc. The natural abundance of
+mycalamide is exceptionally/vanishingly low and there is nocommercial source.",mkrische@cm.utexas.edu,Technology and Computer Science
+UT Austin,Manish Kumar,"Department of Civil, Architectural, and Environmental Engineering","Associate Professor Dr. Kumar aims to develop a rapid method to create simple barrier
+materials to prevent transmission of the virus responsible for COVID-19.
+He is working on generating and testing surrogates of the 2019-nCoV virus
+(responsible for the COVID-19 disease) to test for removal using various
+techniques. He is trying to develop a rapid method to coat masks and
+HVAC filters with an antimicrobial peptide solution that has shown in
+simulation studies to selectively immobilize the exposed spike protein of
+the virus. He is working in collaboration with Dr. Jason McLellan who
+recently published the atomic structure of this spike protein and with Dr.
+Debadyuti Ghosh. They are also collaborating with Dr. Navid Saleh on his
+COVID-19 work to create nanomaterials that can be used to inactivate the
+virus. Dr. Kumar has received NSF RAPID funding to pursue his work withDr. Ghosh.",manish.kumar@utexas.edu,Technology and Computer Science
+UT Austin,Jason Lavinder,Department of Chemical Engineering,"Research Associate
+Dr. Lavinder works in the Georgiou/Ippolito laboratory as the
+primary scientific lead and Co-I/Co-PI on antibody repertoire
+related research, primarily focusing on the human adaptive
+immune response to infectious disease.",jlavinder@utexas.edu,Technology and Computer Science
+UT Austin,Min Kyung Lee,School of Information,"Assistant Professor
+Dr. Lee's background is in human-computer interaction and
+human-centered AI. She is interested in investigating how to
+leverage social computing and AI to promote healthy
+information behaviors, and reduce negative social stereotypes
+and inaccurate information. She is a Co-PI with Dr. Ken
+Fleischmann on a recently funded NSF RAPID grant that
+examines trust in public health information during the COVID-
+19 pandemic.",minkyung.lee@austin.utexas.edu,Technology and Computer Science
+UT Austin,Michael Mackert,Stan Richards School of Advertising and Public Relations  ,"Department of Population Health, Dell Medical School
+Director of Center for Health Communication
+Dr. Mackert's personal research interests relate to designing
+more effective health messages for lower health literate
+audiences - people who might struggle finding, understanding,
+using, and communicating about health information.
+ 
+As director of the Center for Health Communication, his work
+involves building interdisciplinary teams with health and
+communication expertise to pursue health communication
+research and practice.",mackert@utexas.edu,Other
+UT Austin,Mo Maniruzzaman,College of Pharmacy,"Assistant Professor
+Dr. Maniruzzaman focuses on pharmaceutical process 
+engineering, continuous manufacturing and 3D printing of
+medicines. Additional projects focus on 3D bioprinting of
+scaffolds and smart medical implants as well as ultra-portable
+drug delivery devices. Dr. Maniruzzaman is currently working
+with the City of Austin to 3D-print COVID-19 nasal swabs.",m.maniruzzaman@austin.utexas.edu,Technology and Computer Science
+UT Austin,Arumugam Manthiram,Department of Mechanical Engineering,"Professor
+Dr. Manthiram is working with Tesla Motors to deploy a new
+N95 filter manufacturing technique. He produces and images
+fibers, and sends information to Tesla, who uses the
+information to produce and test filter membranes on site in
+Boulder, CO.",manth@austin.utexas.edu,Other
+UT Austin,Edward Marcotte,Department of Molecular Biosciences,"Professor Dr. Marcotte is surveying available instruments and reagents on
+campus in case there is a need to support local official COVID-19
+RT-qPCR testing with university resources. Should it prove
+necessary, he will collect and distribute the resources, which
+include analytical instruments (RT-qPCR machines), portable
+biological safety cabinets, and reagents. He is also working to
+implement an alternative, higher-throughput (3K tests/day, possibly
+scalable to 10K) COVID-19 testing protocol that leverages the DNA
+sequencing instruments in the Genome Sequencing and Analysis
+Facility (GSAF). For this project, his group is primarily providing off-
+site bioinformatics support.",marcotte@icmb.utexas.edu,Technology and Computer Science
+UT Austin,Stephen Martin,Department of Chemistry,"Professor Dr. Martin's research is focused primarily in synthetic and bioorganic
+chemistry, and in chemical biology. He has been working for the past
+several years developing compounds that selectively target the
+Sigma 1 receptor and TMEM97 as potential therapeutic agents to
+treat neurological diseases and conditions. New compounds having
+improved selectivity profiles that also have better drug-like
+properties are needed. A recently published paper showed that
+both the sigma 1 receptor and TMEM97 are potential drug targets
+for developing drugs to treat COVID-19. He will also need to
+resynthesize several compounds he has already identified as
+selective sigma 1 receptor and TMEM97 binders for testing.",sfmartin@mail.utexas.edu,Technology and Computer Science
+UT Austin,Jennifer Maynard,Department of Chemical Engineering,"Professor Dr. Maynard is pursuing three complementary approaches for
+rapid discovery of antibodies that could be used in COVID-19
+diagnostic point-of-care tests: She is experimentally selecting
+beta-coronavirus cross-reactive antibodies from MERS-
+immunized mice. She is also rationally re-engineering
+previously described antibodies that bind SARS COV-1 with
+high affinity for COVID-19 binding. Finally, she is rapidly
+cloning, expressing and screening large numbers of COVID-19
+spike variants for use by structural biology labs worldwide, as
+they work to predict which mutations are likely to increasevirus expression.",maynard@che.utexas.edu,Technology and Computer Science
+UT Austin,Jason McLellan,Department of Molecular Biosciences,"Associate Professor
+Dr. McLellan worked on the structure and function of
+coronavirus spike proteins for 5 years. He solved the COVID-
+19 spike protein structure. He and Drs. Ilya Finkelstein and
+Jennifer Maynard, have been designing and testing more than
+100 variants of the coronavirus spike protein. Their work
+could be critical to optimizing vaccine design. Also, Dr.
+McLellan and graduate student fellow Daniel Wrapp have
+helped produce a new antibody that, in initial tests, blocks the
+virus’ spike protein from infecting cells.",jmclellan@austin.utexas.edu,Biomedical
+UT Austin,Lauren Meyers,Department of Integrative Biology,"Professor Dr. Meyers' research focus includes network epidemiology, optimization of
+infectious disease surveillance and control, and translational tools for public
+health. Her work has included uncovering the sociological and biological drivers
+of influenza transmission, improving disease control policies for influenza and
+HIV, redesigning disease surveillance systems to harness next-generation data,
+and creating decision-support software for the Centers for Disease Control and
+Prevention (CDC), Association of Public Health Labs (APHL), Defense Threat
+Reduction Agency (DTRA) and Texas Department of State Health Services
+(DSHS). She is currently modeling how quickly the coronavirus can spread,
+including asymptomatic transmission of the virus. 
+ 
+Recent UT News Release: Coronavirus Spreads Quickly and Sometimes Before
+laurenmeyers@austin.
+People Have Symptoms, Study Finds",utexas.edu,Technology and Computer Science
+UT Austin,Thomas Milner,Department of Biomedical Engineering  ,"Department of Electrical and Computer Engineering
+Professor
+Dr. Milner's research is directed toward the development of novel
+optical tomographic imaging modalities and laser surgical
+procedures for diagnosis and treatment of disease in humans. He
+is currently working on three projects related to COVID-19: 1)
+Verifying a low-cost rapidly prototyped ICU ventilator that could be
+deployed locally should an ICU saturation occur, 2) airway laser
+destruction of COVID-19 in the larynx, trachea and nasal airways,
+and 3) using the laser to treat secondary negative problems when
+a person who has cured of an acute severe viral infection develops
+a severe chronic lung disease – lung fibrosis.",terra.laser@gmail.com,Technology and Computer Science
+UT Austin,Pawel Misztal,"Department of Civil, Architectural, and Environmental Engineering","Assistant Professor
+Dr. Misztal's Lab houses a Vocus2R mass spectrometer that
+is being used in collaboration with Drs. Lea Hildebrandt Ruiz
+and Atila Novaselac on COVID-19 work. He is a Co-PI on an
+NSF RAPID grant supporting this work, along with Drs.
+Hildebrandt Ruiz and Novaselac.",misztal@utexas.edu,Technology and Computer Science
+UT Austin,Atila Novaselac,"Department of Civil, Architectural, and Environmental Engineering","Professor
+Dr. Novaselac's technical interests include ventilation and
+indoor air quality, computations and measurements of
+airflows in buildings, pollutants transport modeling, and
+building energy analysis. He is collaborating with Drs. Lea
+Hildebrandt Ruiz and Pawel Misztal on COVID-19 related
+research on N95 masks. He is a Co-PI on an NSF RAPID grant
+supporting this work, along with Drs. Hildebrandt Ruiz and
+Misztal.",atila@mail.utexas.edu,Biomedical
+UT Austin,Sapun Parekh,Department of Biomedical Engineering,"Dr. Parekh tests the uptake potential of a viral mimic, using the 2019-nCoV
+Assistant Professor
+spike (S) glycoprotein, a crucial part of the protein corona enveloping the
+virus. 2019-nCoV-S has been found to bind to the angiotensin-converting
+enzyme (ACE2) receptor on cells leading to internalization analogous with
+SARS-CoV-S, the spike protein of the SARS coronavirus that had its
+outbreak in 2003. Dr. Parekh proposes the use of ACE-positive lung
+epithelial cells that are known to take up the SARS-CoV-S and test the
+uptake of S-protein coated microspheres. He wants to both quantify the
+magnitude of uptake and to visualize the subcellular localization of the
+protein. He is also proposing to help elucidate the infectious ability with
+respect to two variables: ambient temperature and patient age to assist
+with therapeutic development and link observed epidemiology with actualcellular infection.",sparekh@utexas.edu,Technology and Computer Science
+UT Austin,Shelley Payne,Department of Molecular Biosciences,"Professor
+Dr. Payne's research is focused on human infectious
+diseases. Although her work focuses on bacterial pathogens,
+she also has a project on Zika. Drs. Payne and Jaquelin
+Dudley are co-PIs on a grant to identify Zika virus in biological
+samples. This project will be expanded to include coronavirus
+detection, since the methods will be the same. They will
+obtain inactivated coronovirus from the American Type
+Culture Collection (ATCC.  The inactivated virus will be added
+to control samples of blood, feces and urine and the
+sensitivity of detection determined. ",payne@utexas.edu,Technology and Computer Science
+UT Austin,John Powers,Department of Pediatrics,"Assistant Professor
+Dr. Powers focuses on understanding the underlying genetic
+mechanisms leading to pediatric neuroblastoma. He will work
+on a bacteriophage-based vaccine platform to develop a
+vaccine against COVID-19. It was originally envisioned as a
+personalized cancer vaccine, and he believes it would be
+valuable as a pathogen vaccine system as well. It has the
+advantages of exceptional speed to produce vaccine
+candidates, ease and speed of scaling up, and low long term
+cost.",john.powers@austin.utexas.edu,Technology and Computer Science
+UT Austin,Stuart Reichler,College of Natural Sciences,"Associate Professor of Practice
+Dr. Reichler is collaborating with Dr. Andrew Ellington on a
+method for detecting COVID-19 in wastewater. Dr. Reichler's
+lab will be responsible for collecting and processing the water
+samples. This diagnostic tool can allow municipalities to
+monitor infection levels of the whole population and possibly
+detect the return of COVID-19 infections before people
+become symptomatic.",sreichler@mail.utexas.edu,Other
+UT Austin,Chris Rylander,Department of Mechanical Engineering,"Associate Professor Dr. Rylander is working with the Austin Fire Department to
+apply ozone sterilization to PPE masks (along with Drs.
+Matthew Hall and Nichole Rylander). Dr. Rylander will design
+the experimental approach and build relevant equipment for
+ozone exposure and assessment. The three PIs have also
+initiated a new research collaboration to use a novel diesel
+engine approach for sterilization of indoor air containing
+aerosolized pathogens including COVID-19. This approach
+will employ a readily available system to impose high
+temperatures for short durations to incinerate COVID-19
+thereby inactivating the virus-laden air and preventingdisease spread.",cgr@austin.utexas.edu,Technology and Computer Science
+UT Austin,Nichole Rylander,Department of Mechanical Engineering,"Associate Professor Dr. Rylander is working with the Austin Fire Department to apply ozone
+sterilization to PPE masks (along with  Drs. Chris Rylander and Matthew
+Hall). Dr. Rylander will assess mask effectiveness for protection against
+bacteria and viruses by measuring their inactivation following ozone
+sterilization, and she will be in charge of culturing representative bacteria
+and viruses for testing and determining appropriate parameters for
+inactivation of COVID-19. The three PIs have also initiated a new research
+collaboration to use a novel diesel engine approach for sterilization of
+indoor air containing aerosolized pathogens including COVID-19. This
+approach will employ a readily available system to impose high
+temperatures for short durations to incinerate COVID-19 thereby
+inactivating the virus-laden air and preventing disease spread. Her lab will
+be the site for culture of bacteria/viruses and evaluation of theirinactivation by the engine.",mnr@austin.utexas.edu,Technology and Computer Science
+UT Austin,Navid Saleh,"Department of Civil, Architectural, and Environmental Engineering","Associate Professor
+Dr. Saleh recently received funding from the NSF to modify
+mask surfaces (both surgical and N95) to improve their
+capture and inactivation of SARS-CoV-2. In this project, he will
+be modifying surgical mask surfaces with surfactant-coated
+carbon particles at different ratios and moisture content,
+testing the efficacy of the modified mask surfaces to attach
+and inactivate a range of viruses including SARS-CoV-2, and
+working to understand the mechanisms of attachment and
+inactivation.",navid.saleh@utexas.edu,Technology and Computer Science
+UT Austin,A. Frank Seibert,Center for Energy and Environmental Resources,"Technical Manager of the Separations Research Program (SRP)
+Dr. Seibert will be distilling a turpentine mixture to recover
+terpenes specific for killing and disinfecting surfaces including
+clothing contaminated by a variety of pathogens including
+coronavirus. His work will focus on recovering the terpenes by
+distillation and sending terpene samples directly to a lab at
+General Priobiotics Inc., for testing.",fseibert@mail.utexas.edu,Biomedical
+UT Austin,Jonathan Sessler,Department of Chemistry,"Professor Dr. Sessler will re-prepare zinc transporters for shipping to the
+University of Arizona for testing as potential corona virus
+antivirals. Anecdotal evidence lends support to the hypothesis
+that zinc may mitigate the severity of the illness. However, zinc
+salts are poorly transported into cells. Dr. Sessler solved this
+problem back in 2008 in the context of anticancer studies
+published that year in Cancer Research. He will re-synthesize
+those compounds. He will also carry out confirmatory cell tests
+as needed to ensure no toxic impurities are present in the
+shipment. He is looking for antiviral activity, not just random
+killing. So, this is an important control.",sessler@cm.utexas.edu,Technology and Computer Science
+UT Austin,Jason Shear,Department of Chemistry,"Professor
+Dr. Shear is developing optical-sensing platforms for the rapid
+detection of the COVID-19 virus in samples derived from
+biological and environmental sources (e.g., nose swabs, surface
+wipes) based on modulation of graphene quantum dot (GQD)
+Raman scattering or fluorescence signals. Initial studies will be
+conducted using non-pathogenic surrogate virus platforms.
+Once feasibility is demonstrated for rapid, sensitive, and reliable
+detection, coronavirus-specific studies will be undertaken
+through collaborative studies undertaken with appropriate BSL-
+3 (and BSL-2) laboratories.",jshear@mail.utexas.edu,Technology and Computer Science
+UT Austin,Hugh Smyth,College of Pharmacy,"Professor
+Dr. Smyth is developing inhaled therapies for the treatment and
+prevention of COVID-19 airway disease utilizing repurposed FDA
+approved drugs. These inhaled formulations and drug-device
+combinations are being manufactured and tested in his lab, also
+in collaboration with Dr. Robert O. Williams III. These
+formulations will be tested in vitro and in vivo in a BSL-3 lab at a
+non-UT collaborators institution.",hugh.smyth@austin.utexas.edu,Technology and Computer Science
+UT Austin,Keri Stephens,Department of Communication Studies,"Associate Professor
+Dr. Stephens studies how people communicate and organize,
+often through technology, during times of crisis, disasters,
+and health-related issues. She received NSF RAPID funding to
+study social media communication in the aftermath of
+Hurricane Harvey, wrote a op-ed around Ebola, and is
+collaborating on a host of projects related to COVID-19. For
+one of these projects, Dr. Stephens is examining how
+companies and other organizations communicate COVID-19
+information to their employees.",keristephens@austin.utexas.edu,Other
+UT Austin,Christopher Sullivan,Department of Molecular Biosciences,"Professor
+Dr. Sullivan is a virologist who works on the host response to
+infection. Coronaviruses encode proteins that specifically block two
+pathways he studies, implying enhancing these pathways could be
+antiviral strategies (but it's a long shot). Dr. Sullivan is working with
+Drs. Andy Ellington and Edward Marcotte, Genome Sequencing and
+Analysis Facility (GSAF), and Clinical Pathology Labs to implement an
+alternative, higher-throughput (3K tests/day, possibly scalable to 10K)
+COVID-19 testing protocol that leverages the DNA sequencing
+instruments in the GSAF. For this project, his group is primarily
+providing labor for optimizing the RNA harvesting from sham samples
+and COVID negative nasal swabs.",chris_sullivan@austin.utexas.edu,Biomedical
+UT Austin,Haris Vikalo,Department of Electrical and Computer Engineering,"Professor
+Dr. Vikalo received NSF RAPID funding to analyze genomic data,
+provide accurate identification of transmission clusters, and enable
+detection of critical nodes in a network of pathogen hosts while also
+providing insight into pathogen-mutation processes that occur during
+the spread of COVID-19. He will use the methods he develops to
+identify transmission clusters to analyze publicly available COVID-19
+datasets.",hvikalo@ece.utexas.edu,Technology and Computer Science
+UT Austin,Janet Walkow,College of Pharmacy,"Executive Director and Chief Technology Officer, Drug Dynamics Institute
+Dr. Walkow is developing a drug product containing clofazimine, a
+previously approved drug that has been identified as a potential
+therapeutic against COVID-19.",jwalkow@austin.utexas.edu,Technology and Computer Science
+UT Austin,Robert O. (Bill) Williams III,College of Pharmacy,"Division Head - Molecular Pharmaceutics and Drug Delivery
+Dr. Williams is actively working on two RNA-based vaccines and two small
+molecule drugs (mycophenolic acid and nuclosamide) using the drug delivery platforms
+for which he has IP coverage: thin-film freezing for delivering the vaccines/drugs to the
+lungs via dry powder inhalation. He is collaborating with several biotech companies who
+are filing for FDA fast track for COVID-19 related new therapies. He is collaborating with
+Jay Peters at UT Health San Antonio and the VA Hospital on a grant for inhaled drug
+delivery of the two small molecule drugs.  He is also collaborating with Prof. Jai Hyun Seo
+in Korea, who will begin testing on all of his formulations for inhaled and oral delivery in
+his SARS CoV, SARS CoV-2 and MERS CoV animal infection models. 
+ 
+Dr. Williams is in the process of treating lung-injured, aged animals with a peptide (LTI-
+03) that has been shown to reverse severe lung injury. This work is being done in
+collaboration with LungTherapeutics, a local company that is planning to start testing
+LTI-03 for treating virus-induced lung injury in a mouse model. The outcome of thecurrent experiment would provide important data and rational for the continuation ofr e s e a r c h   i n t o   L T I - 0 3   a s   a   p o t e n t i a l   C O V I D - 1 9   t h e r a p e u t i c .",bill.williams@austin.utexas.edu,Technology and Computer Science
+UT Austin,Blerta Xhemalce,Department of Molecular Biosciences,"Associate Professor
+Dr. Xhemalce is testing to see if inhibitors can be repurposed
+to inhibit nsp16 and attack the virus responsible for COVID-
+19. Nsp16 is an O-methyltransferase encoded by the genome
+of the virus responsible for COVID-19. This protein allows the
+viral mRNA to camouflage itself in the host cell and inhibit
+the innate immune response. Dr. Xhemalce has at her
+disposal a range of inhibitors of BCDIN3D, another O-
+methyltransferase.",b.xhemalce@austin.utexas.edu,Biomedical
+UT Austin,Bo Xie,School of Nursing and School of Information,"Professor Dr. Xie and collegues recently submitted an opinion paper* on global health
+crises accepted for publication in JASIST, a top journal in information science.
+A few years ago, Dr. Xie received an NSF grant to study clinicians' information
+wants during the Ebola crisis, and published the findings. This time around,
+she wants to move further, to see her research findings translate into
+something that makes a real difference outside of academia. She is a Co-PI
+with Dr. Ken Fleischmann on a recently funded NSF RAPID grant that
+examines trust in public health information during the COVID-19 pandemic.
+ 
+*Op-Ed 
+Xie, B., He, D., Mercer, T., Wang, Y., Wu, D., Fleischmann, K. R., Zhang, Y., Yoder, L. H.,
+Stephens, K. K., Mackert, M., Lee, M. K. (in press). Global health crises are also
+information crises: a call to action. Journal of the Association for Information Scienceand Technology (JASIST).",boxie@utexas.edu,Technology and Computer Science
+UT Austin,Janeta Zoldan,Department of Biomedical Engineering,"Assistant Professor Dr. Zoldan has developed a three-dimensional model that mimics the
+growth of human vessel networks using patient-specific cells. Emerging
+clinical data suggest that COVID-19 disrupts the inner lining of blood
+vessels (the endothelial cells) and that this process may be one of the
+events leading to mortality in severe cases. This human-based model is
+ideal for studying the interactions of growing blood vessels or intact
+vessel networks with COVID-19 secreted cytokines (spike proteins).
+Based on these interactions, she will identify and test drug candidates
+that can prevent these harmful interactions. Additionally, the use of
+patient-specific cells in this model can help uncover if impaired vessel
+growth is related to current COVID-19 high mortality rate in elderly
+patients and patients with underlining diseases such as diabetes andhypertension.",zjanet@austin.utexas.edu,Other
+UT Austin,Alison Preston,Office of the Vice President for Research,"Interim Vice President for Research
+Dr. Preston is the Interim Vice President for Research and the
+Dr. A. Wilson Nolle and Sir Raghunath P. Mahendroo Professor
+of Neuroscience at UT. She is the director of the university’s
+Bioimaging Research Center. Dr. Preston studies the cognitive
+neuroscience of memory, with a particular focus in how
+memory develops in children and teens. She also chairs the
+Research Working Group, as part of the Executive Committee
+lead by President Gregory Fenves and Interim President
+Designate Jay Hartzell, to safely reopen campus to faculty, staff,
+and students in 2020 during the COVID-19 pandemic.",preston@austin.utexas.edu,Technology and Computer Science
+UT Austin,Jennifer Lyon Gardner,Office of the Vice President for Research,"Deputy Vice President for Research
+Dr. Lyon Gardner is the Deputy Vice President for Research and has
+led research capacity-building efforts at UT since 2008. She designs
+and implements programming that promotes collaborative research,
+including UT’s research grand challenges program, Bridging Barriers,
+and the Associate Professor Experimental (APX). She also leads the VPR
+Research Development team, which provides competitive intelligence
+and proposal development guidance to teams of researchers pursuing
+major external funding. Together with Interim Vice President for
+Research Alison Preston, Dr. Gardner is responsible for planning the
+phased re-opening of research operations on the UT Austin campus inlight of the COVID-19 pandemic.",lyon@austin.utexas.edu,Other
+UT Austin,Elizabeth A. Vandewater,Office of the Vice President for Research,"Research Development Officer
+Dr. Vandewater is a seasoned NIH investigator, and she has played a
+major role in several successful NIH Center grant applications. She
+supports basic and applied biomedical and health related proposals,
+with a particular focus on large, complex, agency proposals (e.g.,
+multiple PIs, cross-college, cross-institution, etc.), such as center grants,
+training grants, and cooperative agreements.",elizvan@austin.utexas.edu,Technology and Computer Science
+UT Austin,"Eunjung ""EJ"" Lee-Furman",Office of the Vice President for Research,"Senior Special Projects Coordinator
+Ms. Lee-Furman is a Certified Research Administrator who provides
+comprehensive support to Research Interest Groups (RIGs) spanning
+nearly all colleges, schools and units. RIGs are self-governed, PI-driven
+groupings of researchers who share a research vision or goal, and who
+convene to exchange knowledge, methods and expertise in support of
+that research goal.",RIG@austin.utexas.edu,Technology and Computer Science
