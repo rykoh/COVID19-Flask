@@ -13,7 +13,7 @@ from pymongo import MongoClient
 
 
 
-
+received = False
 
 def create_dashboard(server):
     """Create a Plotly Dash dashboard."""
@@ -35,21 +35,22 @@ def create_dashboard(server):
 
     # Create Layout
     dash_app.layout = html.Div(
-        children=[get_input(), dcc.Graph(
-            id='histogram-graph',
-            figure={
-                'data': [{
-                    'x': df['Key Words'],
-                    'text': df['Key Words'],
-                    'name': 'Research Categories',
-                    'type': 'histogram'
-                }],
-                'layout': {
-                    'title': 'Research Categories',
-                    'height': 500,
-                    'padding': 150
-                }
-            }),
+        children=[get_input(), html.Br(),
+        # dcc.Graph(
+        #     id='histogram-graph',
+        #     figure={
+        #         'data': [{
+        #             'x': df['Key Words'],
+        #             'text': df['Key Words'],
+        #             'name': 'Research Categories',
+        #             'type': 'histogram'
+        #         }],
+        #         'layout': {
+        #             'title': 'Research Categories',
+        #             'height': 500,
+        #             'padding': 150
+        #         }
+        #     })
             create_data_table(df)
         ],
         id='dash-container'
@@ -72,31 +73,37 @@ def create_dashboard(server):
                   [State('username', 'value')],
                   )
     def update_output(clicks, input_value):
+        received = False
         if clicks is not None:
             client =  MongoClient("mongodb+srv://covid19Scraper:Covid-19@cluster0-rvjf8.mongodb.net/FlaskTable?retryWrites=true&w=majority")
             db = client.FlaskTable
             name = 'Feedback'
             collection = db[name]
+            
             feedback = str(input_value)
-            print(feedback)
-            print(type(feedback))
+           
             feedBackRaw = {'FeedbackVal': [feedback]}
             dataFrame = pd.DataFrame(data=feedBackRaw)
             dataFrame.reset_index(inplace=True)
             data_dict = dataFrame.to_dict("records")
             collection.insert_many(data_dict)
-            return "We got your feedback!"
-
+            received = True
+            input_value = ''
+            if received is True:
+                return "\nWe got your feedback!"
+            
 
     @dash_app.callback(
-        Output("modal", "is_open"),
+        [Output("modal", "is_open"), Output('output_div', 'is_open')],
         [Input("open", "n_clicks"), Input("close", "n_clicks")],
-        [State("modal", "is_open")],
+        [State("modal", "is_open"), State('username', 'value')],
     )
-    def toggle_modal(n1, n2, is_open):
+    def toggle_modal(n1, n2, is_open, value):
+
+        received = False
         if n1 or n2:
-            return not is_open
-        return is_open
+            return not is_open, "Here"
+        return is_open, "Here"
     return dash_app.server
 
 
@@ -172,26 +179,28 @@ def create_data_table(df):
     return tabs
 
 def get_input():
-    inputFeed = html.Div([
+    inputFeed = html.Div(children = [
             dbc.Input(id='username', placeholder='Enter feedback here!',bs_size="lg", type='text'),
-            dbc.Button( id='submit-button', children='Submit', style={'text-align':'center'}),
+            html.Br(),
+            dbc.Button( id='submit-button', children='Submit', style={'text-align':'center', 'width': '500px'}),
             html.Div(id='output_div')
-        ])
+        ], style = {'width': '500px'})
 
 
     modal = html.Div(
-        [
+        children = [
             dbc.Button("Give us feedback!", id="open"),
             dbc.Modal(
                 [
                     dbc.ModalHeader("Enter your feedback down below!"),
                     dbc.ModalBody(inputFeed),
+                    
                     dbc.ModalFooter(
                         dbc.Button("Close", id="close", className="ml-auto")
                     ),
                 ],
                 id="modal",
             ),
-        ]
+        ], style = {'width': '500px'}
     )
     return modal
