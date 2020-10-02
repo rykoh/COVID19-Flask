@@ -27,6 +27,8 @@ def create_dashboard(server):
         ]
     )
 
+    dash_app.title = "COVID-19 Student Research Opportunities"
+
     # Load DataFrame
     df = create_dataframe()
 
@@ -34,10 +36,29 @@ def create_dashboard(server):
     dash_app.index_string = html_layout
 
     # html.Header ? for a new header to be able to add the feedback form
+    navbar = dbc.NavbarSimple(
+        children=[
+            dbc.NavItem(dbc.NavLink("Coming Soon", href="#")),
+            dbc.DropdownMenu(
+                children=[
+                    dbc.DropdownMenuItem("Other", header=True),
+                    dbc.DropdownMenuItem("Coming Soon", href="#"),
+                    dbc.DropdownMenuItem("Coming Soon", href="#"),
+                ],
+                nav=True,
+                in_navbar=True,
+                label="More",
+            ),
+        ],
+        brand="COVID-19 Research Opportunities",
+        brand_href="#",
+        color="secondary",
+        dark=True,
+    )
 
     # Create Layout
     dash_app.layout = html.Div(
-        children=[get_input(), html.Br(),
+        children=[navbar, get_input(), html.Br(),
         # dcc.Graph(
         #     id='histogram-graph',
         #     figure={
@@ -184,9 +205,9 @@ def get_input():
     inputFeed = html.Div(children = [
             dbc.Input(id='username', placeholder='Enter feedback here!',bs_size="lg", type='text'),
             html.Br(),
-            dbc.Button( id='submit-button', children='Submit', style={'text-align':'center', 'width': '500px'}), # change width of button
+            dbc.Button( id='submit-button', children='Submit', style={'text-align':'center', 'width': '460px'}), 
             html.Div(id='output_div')
-        ], style = {'width': '500px'})
+        ], style = {'width': '460px'})
 
 
     modal = html.Div(
