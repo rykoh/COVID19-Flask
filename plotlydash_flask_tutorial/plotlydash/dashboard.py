@@ -33,6 +33,8 @@ def create_dashboard(server):
     # Custom HTML layout
     dash_app.index_string = html_layout
 
+    # html.Header ? for a new header to be able to add the feedback form
+
     # Create Layout
     dash_app.layout = html.Div(
         children=[get_input(), html.Br(),
@@ -182,7 +184,7 @@ def get_input():
     inputFeed = html.Div(children = [
             dbc.Input(id='username', placeholder='Enter feedback here!',bs_size="lg", type='text'),
             html.Br(),
-            dbc.Button( id='submit-button', children='Submit', style={'text-align':'center', 'width': '500px'}),
+            dbc.Button( id='submit-button', children='Submit', style={'text-align':'center', 'width': '500px'}), # change width of button
             html.Div(id='output_div')
         ], style = {'width': '500px'})
 
