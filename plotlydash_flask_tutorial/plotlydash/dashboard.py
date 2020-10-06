@@ -35,30 +35,9 @@ def create_dashboard(server):
     # Custom HTML layout
     dash_app.index_string = html_layout
 
-    # html.Header ? for a new header to be able to add the feedback form
-    navbar = dbc.NavbarSimple(
-        children=[
-            dbc.NavItem(dbc.NavLink("Coming Soon", href="#")),
-            dbc.DropdownMenu(
-                children=[
-                    dbc.DropdownMenuItem("Other", header=True),
-                    dbc.DropdownMenuItem("Coming Soon", href="#"),
-                    dbc.DropdownMenuItem("Coming Soon", href="#"),
-                ],
-                nav=True,
-                in_navbar=True,
-                label="More",
-            ),
-        ],
-        brand="COVID-19 Research Opportunities",
-        brand_href="#",
-        color="secondary",
-        dark=True,
-    )
-
     # Create Layout
     dash_app.layout = html.Div(
-        children=[navbar, get_input(), html.Br(),
+        children=[navbar(), html.Br(), get_input(), html.Br(),
         # dcc.Graph(
         #     id='histogram-graph',
         #     figure={
@@ -227,3 +206,29 @@ def get_input():
         ], style = {'width': '500px'}
     )
     return modal
+
+def navbar():
+    # html.Header ? for a new header to be able to add the feedback form
+    # use html div instead?? https://dash.plotly.com/dash-html-components/nav
+    # make a reuseable navitem for the different examples
+    navbar = dbc.NavbarSimple(
+        children=[
+            dbc.NavItem(dbc.NavLink("Page 1", href="#")),
+            dbc.DropdownMenu(
+                children=[
+                    dbc.DropdownMenuItem("More pages", header=True),
+                    dbc.DropdownMenuItem("Page 2", href="#"),
+                    dbc.DropdownMenuItem("Page 3", href="#"),
+                ],
+                nav=True,
+                in_navbar=True,
+                label="More",
+            ),
+        ],
+        brand="NavbarSimple",
+        brand_href="#",
+        color="secondary",
+        dark=True,
+    )
+
+    return navbar
