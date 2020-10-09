@@ -10,6 +10,7 @@ html_layout = '''
             {%css%}
         </head>
         <body class="dash-template">
+            <!--
             <header>
                 <div class="nav-wrapper">
                     <a href="/">
@@ -17,15 +18,14 @@ html_layout = '''
                         <h1>COVID-19 Student Research Opportunities</h1>
                     </a>
                     <nav>
-                        <!--
                         <a href="/html/">HTML</a> |
                         <a href="/css/">CSS</a> |
                         <a href="/js/">JavaScript</a> |
                         <a href="/python/">Python</a>
-                        -->
                     </nav>
                 </div> 
             </header>
+            -->
             {%app_entry%}
             <footer>
                 {%config%}

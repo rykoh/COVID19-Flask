@@ -211,8 +211,10 @@ def navbar():
     # html.Header ? for a new header to be able to add the feedback form
     # use html div instead?? https://dash.plotly.com/dash-html-components/nav
     # make a reuseable navitem for the different examples
+    # Try to include logo into this version of navbar
     navbar = dbc.NavbarSimple(
         children=[
+
             dbc.NavItem(dbc.NavLink("Page 1", href="#")),
             dbc.DropdownMenu(
                 children=[
@@ -225,10 +227,29 @@ def navbar():
                 label="More",
             ),
         ],
-        brand="NavbarSimple",
-        brand_href="#",
+        brand="COVID-19 Student Research Opportunities",
+        brand_href="http://covid19research.herokuapp.com/",
         color="secondary",
         dark=True,
+        style = {'height': '100px'}, # , 'margin-top': '-7.5%' fix the spacing on this including top margin and width using css style elements: https://www.w3schools.com/cssref/
+        sticky = "top",
     )
 
     return navbar
+
+# A version of navbar to include logo, has spacing errors: https://dash-bootstrap-components.opensource.faculty.ai/docs/components/navbar/
+'''
+            html.A(
+                # Use row and col to control vertical alignment of logo / brand
+                dbc.Row(
+                    [
+                        dbc.Col(html.Img(src='/static/img/fibonnaci_dots.png', height="30px")),
+                        dbc.Col(dbc.NavbarBrand("COVID-19 Student Research Opportunities", className="ml-2")),
+                    ],
+                    align="center",
+                    no_gutters=True,
+                    justify="around"
+                ),
+                href="http://covid19research.herokuapp.com/",
+            ),
+'''
