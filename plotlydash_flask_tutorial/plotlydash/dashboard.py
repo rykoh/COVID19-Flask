@@ -35,9 +35,9 @@ def create_dashboard(server):
     # Custom HTML layout
     dash_app.index_string = html_layout
 
-    # Create Layout
+    # Create Layout    get_input(), html.br()
     dash_app.layout = html.Div(
-        children=[navbar(), html.Br(), get_input(), html.Br(),
+        children=[navbar(), html.Br(),
         # dcc.Graph(
         #     id='histogram-graph',
         #     figure={
@@ -203,7 +203,7 @@ def get_input():
                 ],
                 id="modal",
             ),
-        ], style = {'width': '500px'}
+        ], style = {'width': '150px'}
     )
     return modal
 
@@ -212,9 +212,10 @@ def navbar():
     # use html div instead?? https://dash.plotly.com/dash-html-components/nav
     # make a reuseable navitem for the different examples
     # Try to include logo into this version of navbar
+    # https://dash-bootstrap-components.opensource.faculty.ai/docs/components/navbar/
     navbar = dbc.NavbarSimple(
         children=[
-
+            dbc.NavItem(get_input()),
             dbc.NavItem(dbc.NavLink("Page 1", href="#")),
             dbc.DropdownMenu(
                 children=[
@@ -233,23 +234,10 @@ def navbar():
         dark=True,
         style = {'height': '100px'}, # , 'margin-top': '-7.5%' fix the spacing on this including top margin and width using css style elements: https://www.w3schools.com/cssref/
         sticky = "top",
+        fluid = True,
     )
 
     return navbar
 
-# A version of navbar to include logo, has spacing errors: https://dash-bootstrap-components.opensource.faculty.ai/docs/components/navbar/
-'''
-            html.A(
-                # Use row and col to control vertical alignment of logo / brand
-                dbc.Row(
-                    [
-                        dbc.Col(html.Img(src='/static/img/fibonnaci_dots.png', height="30px")),
-                        dbc.Col(dbc.NavbarBrand("COVID-19 Student Research Opportunities", className="ml-2")),
-                    ],
-                    align="center",
-                    no_gutters=True,
-                    justify="around"
-                ),
-                href="http://covid19research.herokuapp.com/",
-            ),
-'''
+
+

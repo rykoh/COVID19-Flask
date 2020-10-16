@@ -38,9 +38,10 @@ html_layout = '''
                     left: 0;
                     bottom: 0;
                     width: 100%;
-                    background-color: white;
-                    color: black;
+                    background-color: rgb(108, 117, 125);
+                    color: white;
                     text-align: center;
+                    height: 200px;
                 }
             </style>
             <div class="footer">
@@ -49,3 +50,4 @@ html_layout = '''
         </body>
     </html>
 '''
+#6C757D
