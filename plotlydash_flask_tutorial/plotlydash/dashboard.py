@@ -37,7 +37,7 @@ def create_dashboard(server):
 
     # Create Layout    get_input(), html.br()
     dash_app.layout = html.Div(
-        children=[navbar(), html.Br(),
+        children=[navbar(), html.Br(), filters(), html.Br(),
         # dcc.Graph(
         #     id='histogram-graph',
         #     figure={
@@ -239,5 +239,37 @@ def navbar():
 
     return navbar
 
+def filters():
 
 
+    filters = html.Div([
+
+        html.H5('Source:'),
+        dcc.Dropdown(
+            options=[
+                {'label': 'UT Austin', 'value': 'UT Austin'},
+                {'label': 'Stanford', 'value': 'Stanford'},
+                {'label': 'Virginia Tech', 'value': 'Virginia Tech'}
+                ],
+            value=['MTL', 'NYC'],
+            multi=True
+            ),
+
+        html.Br(),
+
+        html.H5('Area of Interest:'),
+        dcc.Dropdown(
+            options=[
+                {'label': 'Technology and Computer Science', 'value': 'Technology and Computer Science'},
+                {'label': 'Biomedical', 'value': 'Biomedical'},
+                {'label': 'Other', 'value': 'Other'}
+                ],
+            value=['MTL', 'NYC'],
+            multi=True
+            ),
+
+        html.Br(),
+
+    ])
+
+    return filters
