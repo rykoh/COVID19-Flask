@@ -108,7 +108,6 @@ def create_dashboard(server):
         return is_open, "Here"
     return dash_app.server
 
-
 def create_data_table(df):
     table = dash_table.DataTable(
         id='database-table',
@@ -123,6 +122,7 @@ def create_data_table(df):
         )
 
     allCards = []
+
     for index, row in df.iterrows():
 
         source = "Source: " +row["Data Source"]
@@ -171,7 +171,7 @@ def create_data_table(df):
         )
         allCards.append(currCard)
 
-    cardVal = dbc.CardColumns(allCards)
+    cardVal = dbc.CardColumns(allCards, id = "cardcolumns")
     tabs = dbc.Tabs(
     [
         dbc.Tab(cardVal, label="Card View"),
@@ -246,26 +246,28 @@ def filters():
 
         html.H5('Source:'),
         dcc.Dropdown(
+            id = 'Sources',
             options=[
                 {'label': 'UT Austin', 'value': 'UT Austin'},
                 {'label': 'Stanford', 'value': 'Stanford'},
                 {'label': 'Virginia Tech', 'value': 'Virginia Tech'}
                 ],
-            value=['MTL', 'NYC'],
-            multi=True
+            multi=True,
+            value=['UT Austin', 'Stanford', 'Virginia Tech'],
             ),
 
         html.Br(),
 
         html.H5('Area of Interest:'),
         dcc.Dropdown(
+            id = 'Interests',
             options=[
                 {'label': 'Technology and Computer Science', 'value': 'Technology and Computer Science'},
                 {'label': 'Biomedical', 'value': 'Biomedical'},
                 {'label': 'Other', 'value': 'Other'}
                 ],
-            value=['MTL', 'NYC'],
-            multi=True
+            multi=True,
+            value=['Technology and Computer Science', 'Biomedical', 'Other'],
             ),
 
         html.Br(),
@@ -273,3 +275,85 @@ def filters():
     ])
 
     return filters
+
+
+
+def create_cards(df):
+    table = dash_table.DataTable(
+        id='database-table',
+        columns=[{"name": i, "id": i} for i in df.columns],
+        data=df.to_dict('records'),
+        sort_action="native",
+        sort_mode='native',
+        style_table={'overflowX': 'scroll', 'overflowY': 'scroll', 'padding': '2px 22px',},
+        style_cell={"whiteSpace": "normal", "height": "auto", 'textAlign': 'left'},
+        page_size=300  
+
+        )
+
+    allCards = []
+
+    for index, row in df.iterrows():
+
+        source = "Source: " +row["Data Source"]
+        titleCoord = "Project Title/Coordinator: "+row["Project Title/ Coordinator"]
+        keyWrd = "Area of Interest: "+row["Key Words"]
+        typeRes = "Type of Research: "+row["Type of Research"]
+        descVal = "Description: "+row["Description"]
+        contact = "Relevant Links/Point of Contact: "+row["Relevant Links/POC"]
+        
+
+        currCard = dbc.Card(
+        [
+            dbc.CardHeader(
+                [
+                    html.H5(source, className="card-title"),
+                    html.P(
+                        titleCoord,
+                        className="card-text",
+                    ),
+                    html.P(
+                        keyWrd,
+                        className="card-text",
+                    ),
+                    html.H2(
+                    dbc.Button(
+                        "Click here for more!",
+                        id=f"collapse-button{index}",
+                    )
+                )
+                ]
+            ),
+            dbc.Collapse(
+                dbc.CardBody([html.P(
+                        typeRes,
+                        className="card-text",
+                    ),html.P(
+                        descVal,
+                        className="card-text",
+                    ),html.P(
+                        contact,
+                        className="card-text",
+                    )]),
+                id=f"collapse{index}",
+            ),
+        ]
+        )
+        allCards.append(currCard)
+
+    return allCards
+
+'''
+@app.callback(
+    dash.dependencies.Output('cardcolumns', 'source_cards'),
+    [dash.dependencies.Input('Sources', 'values')])
+def update_cards_source(selector, df):
+    source_cards = []
+    #df = create_dataframe()
+    cards = create_cards(df)
+    for card in cards:
+        if source = Sources:
+            source_cards.append(card)
+    return source_cards
+'''
+
