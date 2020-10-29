@@ -1,15 +1,72 @@
 {% extends "layout.jinja2" %}
 
 {% block content %}
+
+
 <div class="card">
   <img src="{{ url_for('static', filename='img/fibonnaci_dots.png') }}" class="logo" />
   <h1 class="site-title">{{ title }}</h1>
   <p class="subtitle">This database is designed by students for students! Please use this searchable database to identify current opportunities for you to work on COVID-19 research and relief efforts at UT and beyond. Select the contact button to get in touch with the initiative leader. If you know of other opportunities or have feedback for us, please submit your ideas through the form at the bottom of the page. Thank you!</p>
-  <a href="/dashapp/" class="dash-link">
-    <span>Start Looking</span>
-    <i class="fas fa-arrow-right"></i>
-  </a>
+
+
+  <style>
+    .button {
+      border: none;
+      color: white;
+      padding: 16px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      transition-duration: 0.4s;
+      cursor: pointer;
+    }
+
+    .button1 {
+      background-color: white; 
+      color: black; 
+      border: 2px solid #367587;
+    }
+
+    .button1:hover {
+      background-color: #367587;
+      color: white;
+    }
+
+    .button2 {
+      background-color: white; 
+      color: black; 
+      border: 2px solid #367587;
+    }
+
+    .button2:hover {  
+      background-color: #367587;
+      color: white;
+    }
+  </style>
+
+  <br>
+
+  <a href="/dashapp/"><button  class="button button1">Research Opportunities</button></a>
+  <a href="#"><button  class="button button2">Coming Soon!</button></a>
+
+  <br>
+
+  
+  <h3> Get Tested! </h3>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d13781.01960604445!2d-97.75253610132798!3d30.286804225471766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1scovid%20testing%20near%20me!5e0!3m2!1sen!2sus!4v1603755412565!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 </div>
 
 
 {% endblock %}
+
+
+<a href="/dashapp/" class="dash-link">
+  <span>Start Looking</span>
+  <i class="fas fa-arrow-right"></i>
+</a>
+
+
+class="button button2"
