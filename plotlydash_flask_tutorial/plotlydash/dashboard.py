@@ -93,7 +93,18 @@ def create_dashboard(server):
             input_value = ''
             if received is True:
                 return "\nWe got your feedback!"
-            
+    
+    @dash_app.callback(
+    Output('database-table', 'figure'), # what do we put in the second spot
+    [Input('Sources', 'value'),
+    Input('Interests', 'value')])
+    def update_table(filter_source, filter_interest): 
+        filtered_df = df[df["Data Source"] == filter_source]
+        filtered_df = filtered_df[filtered_df["Key Words"] == filter_interest]
+
+        new_table = create_data_table(filtered_df)
+
+        return new_table
 
     @dash_app.callback(
         [Output("modal", "is_open"), Output('output_div', 'is_open')],
@@ -107,6 +118,7 @@ def create_dashboard(server):
             return not is_open, "Here"
         return is_open, "Here"
     return dash_app.server
+
 
 def create_data_table(df):
     table = dash_table.DataTable(
@@ -278,82 +290,8 @@ def filters():
 
 
 
-def create_cards(df):
-    table = dash_table.DataTable(
-        id='database-table',
-        columns=[{"name": i, "id": i} for i in df.columns],
-        data=df.to_dict('records'),
-        sort_action="native",
-        sort_mode='native',
-        style_table={'overflowX': 'scroll', 'overflowY': 'scroll', 'padding': '2px 22px',},
-        style_cell={"whiteSpace": "normal", "height": "auto", 'textAlign': 'left'},
-        page_size=300  
 
-        )
 
-    allCards = []
 
-    for index, row in df.iterrows():
 
-        source = "Source: " +row["Data Source"]
-        titleCoord = "Project Title/Coordinator: "+row["Project Title/ Coordinator"]
-        keyWrd = "Area of Interest: "+row["Key Words"]
-        typeRes = "Type of Research: "+row["Type of Research"]
-        descVal = "Description: "+row["Description"]
-        contact = "Relevant Links/Point of Contact: "+row["Relevant Links/POC"]
-        
-
-        currCard = dbc.Card(
-        [
-            dbc.CardHeader(
-                [
-                    html.H5(source, className="card-title"),
-                    html.P(
-                        titleCoord,
-                        className="card-text",
-                    ),
-                    html.P(
-                        keyWrd,
-                        className="card-text",
-                    ),
-                    html.H2(
-                    dbc.Button(
-                        "Click here for more!",
-                        id=f"collapse-button{index}",
-                    )
-                )
-                ]
-            ),
-            dbc.Collapse(
-                dbc.CardBody([html.P(
-                        typeRes,
-                        className="card-text",
-                    ),html.P(
-                        descVal,
-                        className="card-text",
-                    ),html.P(
-                        contact,
-                        className="card-text",
-                    )]),
-                id=f"collapse{index}",
-            ),
-        ]
-        )
-        allCards.append(currCard)
-
-    return allCards
-
-'''
-@app.callback(
-    dash.dependencies.Output('cardcolumns', 'source_cards'),
-    [dash.dependencies.Input('Sources', 'values')])
-def update_cards_source(selector, df):
-    source_cards = []
-    #df = create_dataframe()
-    cards = create_cards(df)
-    for card in cards:
-        if source = Sources:
-            source_cards.append(card)
-    return source_cards
-'''
 
