@@ -12,12 +12,40 @@ from dash.dependencies import Input, Output, State
 from pymongo import MongoClient
 
 
+def generate_table(df, max_rows=10):
+    
+    table = dash_table.DataTable(
+            id='database-table',
+            columns=[{"name": i, "id": i} for i in df.columns],
+            data=df.to_dict('records'),
+            sort_action="native",
+            sort_mode='native',
+            style_table={'overflowX': 'scroll', 'overflowY': 'scroll', 'padding': '2px 22px',},
+            style_cell={"whiteSpace": "normal", "height": "auto", 'textAlign': 'left'},
+            page_size=300  
+    )
+    
+    """
+    table = html.Table(
+        # Header
+        [html.Tr([html.Th(col) for col in df.columns])] +
 
-received = False
+        # Body
+        [html.Tr([
+            html.Td(df.iloc[i][col]) for col in df.columns
+        ]) for i in range(min(len(df), max_rows))]
+    )
+    """
 
-
+    return table
 
 def create_dashboard(server):
+
+    received = False
+
+    # Load DataFrame
+    df = create_dataframe()
+
     """Create a Plotly Dash dashboard."""
     dash_app = dash.Dash(
         server=server,
@@ -28,12 +56,7 @@ def create_dashboard(server):
             dbc.themes.BOOTSTRAP
         ]
     )
-
-    # Load DataFrame
-    df = create_dataframe()
-
-    dash_app.title = "COVID-19 Student Research Opportunities"
-
+    
     # Custom HTML layout
     dash_app.index_string = html_layout
 
@@ -77,18 +100,43 @@ def create_dashboard(server):
         id='dash-container'
     )
 
-def generate_table(df):
-    table = dash_table.DataTable(
-            id='database-table',
-            columns=[{"name": i, "id": i} for i in df.columns],
-            data=df.to_dict('records'),
-            sort_action="native",
-            sort_mode='native',
-            style_table={'overflowX': 'scroll', 'overflowY': 'scroll', 'padding': '2px 22px',},
-            style_cell={"whiteSpace": "normal", "height": "auto", 'textAlign': 'left'},
-            page_size=300  
-    )
-    return table
+    @dash_app.callback(
+        dash.dependencies.Output('database-table', 'children'),
+        [dash.dependencies.Input('Sources', 'value')])
+    def display_table(dropdown_value):
+        if dropdown_value == []:
+            return generate_table(df)
+
+        
+        # print(dropdown_value) [{'label': 'UT Austin', 'value': 'UT Austin'}, {'label': 'Stanford', 'value': 'Stanford'}, {'label': 'Virginia Tech', 'value': 'Virginia Tech'}]
+        # print(type(dropdown_value)) <class 'list'>
+    
+        #dff = df[df["Data Source"].str.contains('|'.join(dropdown_value))]
+        """
+        dff = generate_table(df)
+        my_list = []
+        for dic in dropdown_value:
+            print(dic)
+            filt_keys = ['value'] 
+            print(filt_keys)
+            res = [dic[key] for key in filt_keys]
+            print(res)
+            var = res[0]
+            print(var)
+            my_list.append(var)
+        print(my_list)
+
+        # Filter the df for rows where df data source is in my_list
+        print(dff['Data Source'])
+        filtered_df = dff[dff["Data Source"] ]
+
+        return generate_table(filtered_df)
+        """
+
+    return dash_app.server
+
+
+
     
 
 
