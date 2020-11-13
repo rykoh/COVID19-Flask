@@ -12,8 +12,8 @@ from dash.dependencies import Input, Output, State
 from pymongo import MongoClient
 
 
-def generate_table(df, max_rows=10):
-    
+def generate_table(df, max_rows=100000):
+    """
     table = dash_table.DataTable(
             id='database-table',
             columns=[{"name": i, "id": i} for i in df.columns],
@@ -24,8 +24,8 @@ def generate_table(df, max_rows=10):
             style_cell={"whiteSpace": "normal", "height": "auto", 'textAlign': 'left'},
             page_size=300  
     )
-    
     """
+    
     table = html.Table(
         # Header
         [html.Tr([html.Th(col) for col in df.columns])] +
@@ -35,7 +35,7 @@ def generate_table(df, max_rows=10):
             html.Td(df.iloc[i][col]) for col in df.columns
         ]) for i in range(min(len(df), max_rows))]
     )
-    """
+    
 
     return table
 
@@ -112,26 +112,17 @@ def create_dashboard(server):
         # print(type(dropdown_value)) <class 'list'>
     
         #dff = df[df["Data Source"].str.contains('|'.join(dropdown_value))]
-        """
-        dff = generate_table(df)
-        my_list = []
-        for dic in dropdown_value:
-            print(dic)
-            filt_keys = ['value'] 
-            print(filt_keys)
-            res = [dic[key] for key in filt_keys]
-            print(res)
-            var = res[0]
-            print(var)
-            my_list.append(var)
-        print(my_list)
+        indicators = []
+        for selector in dropdown_value:
 
-        # Filter the df for rows where df data source is in my_list
-        print(dff['Data Source'])
-        filtered_df = dff[dff["Data Source"] ]
-
-        return generate_table(filtered_df)
-        """
+            if isinstance(selector, dict):
+                category = selector['value']
+                indicators.append(category)
+            else:
+                indicators.append(selector)
+                
+        result = df[df['Data Source'].isin(indicators)]
+        return generate_table(result)
 
     return dash_app.server
 
