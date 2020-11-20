@@ -11,7 +11,7 @@ import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output, State
 from pymongo import MongoClient
 
-
+# Fucntion to generate the table
 def generate_table(df, max_rows=100000):
     """
     table = dash_table.DataTable(
@@ -25,7 +25,7 @@ def generate_table(df, max_rows=100000):
             page_size=300  
     )
     """
-    
+    # add css
     table = html.Table(
         # Header
         [html.Tr([html.Th(col) for col in df.columns])] +
@@ -35,10 +35,70 @@ def generate_table(df, max_rows=100000):
             html.Td(df.iloc[i][col]) for col in df.columns
         ]) for i in range(min(len(df), max_rows))]
     )
-    
 
-    return table
+    allCards = []
 
+    for index, row in df.iterrows():
+
+        source = "Source: " +row["Data Source"]
+        titleCoord = "Project Title/Coordinator: "+row["Project Title/ Coordinator"]
+        keyWrd = "Area of Interest: "+row["Key Words"]
+        typeRes = "Type of Research: "+row["Type of Research"]
+        descVal = "Description: "+row["Description"]
+        contact = "Relevant Links/Point of Contact: "+row["Relevant Links/POC"]
+        
+
+        currCard = dbc.Card(
+        [
+            dbc.CardHeader(
+                [
+                    html.H5(source, className="card-title"),
+                    html.P(
+                        titleCoord,
+                        className="card-text",
+                    ),
+                    html.P(
+                        keyWrd,
+                        className="card-text",
+                    ),
+                    html.H2(
+                    dbc.Button(
+                        "Click here for more!",
+                        id=f"collapse-button{index}",
+                    )
+                )
+                ]
+            ),
+            dbc.Collapse(
+                dbc.CardBody([html.P(
+                        typeRes,
+                        className="card-text",
+                    ),html.P(
+                        descVal,
+                        className="card-text",
+                    ),html.P(
+                        contact,
+                        className="card-text",
+                    )]),
+                id=f"collapse{index}",
+            ),
+        ]
+        )
+        allCards.append(currCard)
+
+    cardVal = dbc.CardColumns(allCards, id = "cardcolumns")
+    tabs = dbc.Tabs(
+    [
+        dbc.Tab(cardVal, label="Card View"),
+        dbc.Tab(table, label="Table View"),
+    ]
+    )
+
+    final = html.Div(tabs)
+    return final
+
+
+# Main Function
 def create_dashboard(server):
 
     received = False
@@ -62,44 +122,46 @@ def create_dashboard(server):
 
     # Create Layout    get_input(), html.br()
     dash_app.layout = html.Div(
-        children=[html.Br(), 
+        children=[html.Br(),
 
-        html.Div(children = [
+            html.Div(children = [
 
-            html.H5('Source:'),
+                html.H5('Source:'),
 
-            dcc.Dropdown(
-                id = 'Sources',
-                options=[
-                        {'label': i, 'value': i} for i in df["Data Source"].unique()
-                    ],
-                multi=True,
-                value=[{'label': i, 'value': i} for i in df["Data Source"].unique()],
+                dcc.Dropdown(
+                    id = 'Sources',
+                    options=[
+                            {'label': i, 'value': i} for i in df["Data Source"].unique()
+                        ],
+                    multi=True,
+                    value=[{'label': i, 'value': i} for i in df["Data Source"].unique()],
+                    ),
+
+                html.Br(),
+
+                html.H5('Area of Interest:'),
+
+                dcc.Dropdown(
+                    id = 'Interests',
+                    options=[
+                            {'label': i, 'value': i} for i in df["Key Words"].unique()
+                        ],
+                    multi=True,
+                    value=[{'label': i, 'value': i} for i in df["Key Words"].unique()],
                 ),
 
             html.Br(),
 
-            html.H5('Area of Interest:'),
-
-            dcc.Dropdown(
-                id = 'Interests',
-                options=[
-                        {'label': i, 'value': i} for i in df["Key Words"].unique()
-                    ],
-                multi=True,
-                value=[{'label': i, 'value': i} for i in df["Key Words"].unique()],
-            ),
-
-        html.Br(),
-
-        html.Br(),
-        ]),
+            html.Br(),
+            ]),
 
         html.Div(id='database-table')
+        
         ],
         id='dash-container'
     )
 
+    # Callback for table
     @dash_app.callback(
         dash.dependencies.Output('database-table', 'children'),
         [dash.dependencies.Input('Sources', 'value')])
@@ -123,6 +185,7 @@ def create_dashboard(server):
                 
         result = df[df['Data Source'].isin(indicators)]
         return generate_table(result)
+
 
     return dash_app.server
 
